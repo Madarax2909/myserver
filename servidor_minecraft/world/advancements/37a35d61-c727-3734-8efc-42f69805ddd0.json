@@ -1731,6 +1731,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-02-19 15:40:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-02-19 15:41:57 +0000"
@@ -1749,15 +1755,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-02-19 15:41:57 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/iron_dust_from_raw_block": {
     "criteria": {
       "has_raw_iron_block": "2025-02-19 15:42:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+  "minecraft:recipes/misc/raw_iron": {
     "criteria": {
-      "has_raw_iron": "2025-02-19 15:41:57 +0000"
+      "has_raw_iron_block": "2025-02-19 15:42:00 +0000"
     },
     "done": true
   },
@@ -1767,15 +1779,21 @@
     },
     "done": true
   },
-  "minecraft:adventure/avoid_vibration": {
+  "lootr:root": {
     "criteria": {
-      "avoid_vibration": "2025-02-19 15:40:41 +0000"
+      "always_true": "2025-02-19 18:51:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/raw_iron": {
+  "lootr:social": {
     "criteria": {
-      "has_raw_iron_block": "2025-02-19 15:42:00 +0000"
+      "opened_barrel": "2025-02-19 19:32:15 +0000"
+    },
+    "done": false
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-02-19 19:32:15 +0000"
     },
     "done": true
   },
