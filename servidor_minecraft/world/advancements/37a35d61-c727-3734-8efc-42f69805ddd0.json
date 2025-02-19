@@ -56,9 +56,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:badlands": "2025-02-19 14:29:17 +0000",
+      "minecraft:savanna_plateau": "2025-02-19 19:35:07 +0000",
       "minecraft:sparse_jungle": "2025-02-19 15:38:34 +0000",
       "minecraft:river": "2025-02-19 15:30:56 +0000",
       "minecraft:forest": "2025-02-19 15:21:21 +0000",
+      "minecraft:deep_dark": "2025-02-19 19:42:47 +0000",
       "minecraft:savanna": "2025-02-19 15:21:22 +0000",
       "minecraft:plains": "2025-02-19 14:25:40 +0000"
     },
@@ -96,12 +98,16 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-02-19 19:34:04 +0000",
+      "jacaranda_glade": "2025-02-19 19:47:15 +0000",
       "old_growth_woodland": "2025-02-19 14:28:44 +0000",
+      "spider_nest": "2025-02-19 19:47:47 +0000",
       "dryland": "2025-02-19 14:30:05 +0000",
       "wasteland": "2025-02-19 14:40:28 +0000",
       "lush_desert": "2025-02-19 14:29:33 +0000",
       "volcano": "2025-02-19 15:48:11 +0000",
-      "volcanic_plains": "2025-02-19 15:47:29 +0000"
+      "volcanic_plains": "2025-02-19 15:47:29 +0000",
+      "lavender_field": "2025-02-19 19:47:07 +0000"
     },
     "done": false
   },
@@ -1785,15 +1791,88 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_candy_cavity": {
+    "criteria": {
+      "discover": "2025-02-19 19:45:58 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-02-19 19:47:53 +0000"
+    },
+    "done": true
+  },
   "lootr:social": {
     "criteria": {
-      "opened_barrel": "2025-02-19 19:32:15 +0000"
+      "opened_barrel": "2025-02-19 19:32:15 +0000",
+      "opened_chest": "2025-02-19 19:44:48 +0000"
     },
     "done": false
   },
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2025-02-19 19:32:15 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2025-02-19 19:52:23 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-02-19 19:44:48 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-02-19 19:42:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-02-19 19:51:44 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/white_paper_extra": {
+    "criteria": {
+      "has_material": "2025-02-19 19:51:44 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-02-19 19:48:18 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/paper_extra": {
+    "criteria": {
+      "has_material": "2025-02-19 19:51:44 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-02-19 19:49:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-02-19 19:51:44 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gingerbread_town": {
+    "criteria": {
+      "gingerbread_town": "2025-02-19 19:46:14 +0000"
     },
     "done": true
   },
