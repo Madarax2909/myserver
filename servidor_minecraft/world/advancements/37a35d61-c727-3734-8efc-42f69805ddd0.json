@@ -101,6 +101,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2025-02-19 19:34:04 +0000",
+      "scrubland": "2025-02-19 20:14:13 +0000",
       "jacaranda_glade": "2025-02-19 19:47:15 +0000",
       "old_growth_woodland": "2025-02-19 14:28:44 +0000",
       "orchard": "2025-02-19 20:10:20 +0000",
@@ -1796,6 +1797,12 @@
     },
     "done": true
   },
+  "occultism:recipes/spirit_fire/spirit_fire/awakened_feather": {
+    "criteria": {
+      "has_feather": "2025-02-19 20:17:02 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/discover_candy_cavity": {
     "criteria": {
       "discover": "2025-02-19 19:45:58 +0000"
@@ -1863,6 +1870,18 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/primitive_club": {
+    "criteria": {
+      "limestone": "2025-02-19 20:17:26 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
+    "criteria": {
+      "killed_grottoceratops": "2025-02-19 20:16:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-02-19 20:07:43 +0000"
@@ -1878,6 +1897,12 @@
   "deeperdarker:main/root": {
     "criteria": {
       "deep_dark": "2025-02-19 19:42:47 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_grottoceratops": "2025-02-19 20:16:26 +0000"
     },
     "done": true
   },
@@ -1920,6 +1945,18 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-02-19 20:07:45 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-02-19 20:14:39 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cooked_dinosaur_chop": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-02-19 20:16:36 +0000"
     },
     "done": true
   },
