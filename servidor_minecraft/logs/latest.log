@@ -1,0 +1,193 @@
+[19Feb2025 18:30:22.727] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[19Feb2025 18:30:22.731] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[19Feb2025 18:30:25.130] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[19Feb2025 18:30:25.207] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/myserver/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[19Feb2025 18:30:25.690] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/myserver/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[19Feb2025 18:30:25.695] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/myserver/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[19Feb2025 18:30:25.698] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/myserver/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[19Feb2025 18:30:25.700] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/myserver/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[19Feb2025 18:30:26.049] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 9 dependencies adding them to mods collection
+[19Feb2025 18:30:32.018] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[19Feb2025 18:30:32.303] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[19Feb2025 18:30:32.400] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[19Feb2025 18:30:32.795] [main/WARN] [mixin/]: Reference map 'modonomicon.refmap.json' for modonomicon.mixins.json could not be read. If this is a development environment you can ignore this message
+[19Feb2025 18:30:32.797] [main/WARN] [mixin/]: Reference map 'modonomicon.refmap.json' for modonomicon.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[19Feb2025 18:30:32.820] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[19Feb2025 18:30:34.450] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[19Feb2025 18:30:34.452] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[19Feb2025 18:30:34.453] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found relics.mixins.json:ScreenMixin
+[19Feb2025 18:30:35.367] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
+[19Feb2025 18:30:35.371] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
+[19Feb2025 18:30:36.007] [main/WARN] [mixin/]: Error loading class: com/teammetallurgy/aquaculture/entity/AquaFishingBobberEntity (java.lang.ClassNotFoundException: com.teammetallurgy.aquaculture.entity.AquaFishingBobberEntity)
+[19Feb2025 18:30:36.399] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[19Feb2025 18:30:44.891] [main/WARN] [mixin/]: @Final field f_31427_:[I in mixins.epicfight.json:MixinWitherBoss should be final
+[19Feb2025 18:30:44.892] [main/WARN] [mixin/]: @Final field f_31428_:[I in mixins.epicfight.json:MixinWitherBoss should be final
+[19Feb2025 18:30:49.174] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[19Feb2025 18:30:49.177] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[19Feb2025 18:30:49.180] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[19Feb2025 18:30:49.181] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[19Feb2025 18:30:50.628] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+
+[19Feb2025 18:30:51.841] [modloading-worker-0/WARN] [net.spellcraftgaming.rpghud.main.ModRPGHud/]: RPG-Hud is a client-side-only mod and should not be installed server-side, please remove it from your server
+[19Feb2025 18:30:52.295] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
+[19Feb2025 18:30:52.479] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: GeckolibCompat
+[19Feb2025 18:30:52.569] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[19Feb2025 18:30:52.574] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[19Feb2025 18:30:52.577] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[19Feb2025 18:30:52.579] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[19Feb2025 18:30:52.581] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[19Feb2025 18:30:52.600] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[19Feb2025 18:30:52.601] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[19Feb2025 18:30:52.602] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[19Feb2025 18:30:53.486] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[19Feb2025 18:30:53.487] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[19Feb2025 18:30:54.367] [modloading-worker-0/INFO] [Mystical Agriculture/]: Registered plugin: com.blakebr0.mysticalagriculture.lib.ModCorePlugin
+[19Feb2025 18:30:54.404] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 1 plugins
+[19Feb2025 18:30:58.171] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Warped Netherlands
+[19Feb2025 18:30:58.185] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Stalactite Caves
+[19Feb2025 18:30:58.187] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Space Wars
+[19Feb2025 18:30:58.188] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Shire
+[19Feb2025 18:30:58.191] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Desert Oasis
+[19Feb2025 18:30:58.192] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Pagoda
+[19Feb2025 18:30:58.193] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Minecolonies Original
+[19Feb2025 18:30:58.194] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Nordic Spruce
+[19Feb2025 18:30:58.195] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Spruce
+[19Feb2025 18:30:58.196] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Oak
+[19Feb2025 18:30:58.197] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Dark Oak
+[19Feb2025 18:30:58.198] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Birch
+[19Feb2025 18:30:58.199] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Lost Mesa City
+[19Feb2025 18:30:58.200] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Jungle Treehouse
+[19Feb2025 18:30:58.201] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Incan
+[19Feb2025 18:30:58.206] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Fortress
+[19Feb2025 18:30:58.207] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Dark Oak Treehouse
+[19Feb2025 18:30:58.209] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Colonial
+[19Feb2025 18:30:58.210] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Cavern
+[19Feb2025 18:30:58.215] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Caledonia
+[19Feb2025 18:30:58.217] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Urban Birch
+[19Feb2025 18:30:58.218] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Ancient Athens
+[19Feb2025 18:30:58.219] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Urban Savanna
+[19Feb2025 18:30:58.220] [Structurize IO Worker #0/WARN] [structurize/]: Failed loading packs from main folder path: .
+[19Feb2025 18:30:58.221] [Structurize IO Worker #0/WARN] [structurize/]: Failed loading client packs from main folder path: .
+[19Feb2025 18:30:58.222] [Structurize IO Worker #0/WARN] [structurize/]: Finished discovering Server Structure packs
+[19Feb2025 18:30:59.207] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/myserver/servidor_minecraft/config/lootr-common.toml is not correct. Correcting
+[19Feb2025 18:30:59.209] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key randomise_seed was corrected from null to its default, true. 
+[19Feb2025 18:30:59.212] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key max_age was corrected from null to its default, 18000. 
+[19Feb2025 18:30:59.215] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key disable was corrected from null to its default, false. 
+[19Feb2025 18:30:59.218] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key convert_mineshafts was corrected from null to its default, true. 
+[19Feb2025 18:30:59.221] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key convert_elytras was corrected from null to its default, true. 
+[19Feb2025 18:30:59.226] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key convert_wooden_chests was corrected from null to its default, true. 
+[19Feb2025 18:30:59.232] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key convert_trapped_chests was corrected from null to its default, true. 
+[19Feb2025 18:30:59.268] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key report_unresolved_tables was corrected from null to its default, false. 
+[19Feb2025 18:30:59.272] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key additional_chests was corrected from null to its default, []. 
+[19Feb2025 18:30:59.275] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key additional_trapped_chests was corrected from null to its default, []. 
+[19Feb2025 18:30:59.282] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key dimension_whitelist was corrected from null to its default, []. 
+[19Feb2025 18:30:59.287] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key dimension_blacklist was corrected from null to its default, []. 
+[19Feb2025 18:30:59.290] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key modid_dimension_blacklist was corrected from null to its default, []. 
+[19Feb2025 18:30:59.302] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key modid_dimension_whitelist was corrected from null to its default, []. 
+[19Feb2025 18:30:59.306] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key loot_table_blacklist was corrected from null to its default, []. 
+[19Feb2025 18:30:59.309] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key loot_modid_blacklist was corrected from null to its default, []. 
+[19Feb2025 18:30:59.311] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key disable_break was corrected from null to its default, false. 
+[19Feb2025 18:30:59.314] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enable_break was corrected from null to its default, false. 
+[19Feb2025 18:30:59.320] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key check_world_border was corrected from null to its default, false. 
+[19Feb2025 18:30:59.323] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enable_fake_player_break was corrected from null to its default, false. 
+[19Feb2025 18:30:59.326] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key power_comparators was corrected from null to its default, true. 
+[19Feb2025 18:30:59.329] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trapped_custom was corrected from null to its default, false. 
+[19Feb2025 18:30:59.331] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key blast_resistant was corrected from null to its default, false. 
+[19Feb2025 18:30:59.336] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key blast_immune was corrected from null to its default, false. 
+[19Feb2025 18:30:59.338] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key disable_notifications was corrected from null to its default, false. 
+[19Feb2025 18:30:59.339] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key notification_delay was corrected from null to its default, 600. 
+[19Feb2025 18:30:59.342] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key disable_message_styles was corrected from null to its default, false. 
+[19Feb2025 18:30:59.348] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key decay_value was corrected from null to its default, 6000. 
+[19Feb2025 18:30:59.350] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key decay_loot_tables was corrected from null to its default, []. 
+[19Feb2025 18:30:59.351] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key decay_modids was corrected from null to its default, []. 
+[19Feb2025 18:30:59.358] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key decay_dimensions was corrected from null to its default, []. 
+[19Feb2025 18:30:59.359] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key decay_structures was corrected from null to its default, []. 
+[19Feb2025 18:30:59.361] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key decay_all was corrected from null to its default, false. 
+[19Feb2025 18:30:59.364] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key refresh_value was corrected from null to its default, 24000. 
+[19Feb2025 18:30:59.366] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key refresh_loot_tables was corrected from null to its default, []. 
+[19Feb2025 18:30:59.371] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key refresh_modids was corrected from null to its default, []. 
+[19Feb2025 18:30:59.373] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key refresh_dimensions was corrected from null to its default, []. 
+[19Feb2025 18:30:59.375] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key refresh_structures was corrected from null to its default, []. 
+[19Feb2025 18:30:59.384] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key refresh_all was corrected from null to its default, false. 
+[19Feb2025 18:30:59.399] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/myserver/servidor_minecraft/config/lootr-client.toml is not correct. Correcting
+[19Feb2025 18:30:59.400] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key vanilla_textures was corrected from null to its default, false. 
+[19Feb2025 18:30:59.416] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key old_textures was corrected from null to its default, false. 
+[19Feb2025 18:30:59.651] [modloading-worker-0/INFO] [simplyswords/]: Registering Gobber compat Items for simplyswords
+[19Feb2025 18:30:59.769] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[19Feb2025 18:31:06.464] [main/INFO] [evilcraft/]: 2205 possible Broom base combinations are ready for flying!
+[19Feb2025 18:31:08.016] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class yesman.epicfight.world.capabilities.entitypatch.player.PlayerPatch
+[19Feb2025 18:31:08.062] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[19Feb2025 18:31:08.078] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
+[19Feb2025 18:31:08.117] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.klikli_dev.occultism.common.entity.spirit.DjinniEntity from class com.klikli_dev.occultism.common.entity.spirit.FoliotEntity
+[19Feb2025 18:31:08.175] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[19Feb2025 18:31:08.178] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[19Feb2025 18:31:08.179] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[19Feb2025 18:31:08.180] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[19Feb2025 18:31:08.180] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[19Feb2025 18:31:08.181] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[19Feb2025 18:31:08.182] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[19Feb2025 18:31:08.186] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[19Feb2025 18:31:08.187] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[19Feb2025 18:31:08.591] [modloading-worker-0/INFO] [evilcraft/]: Registered packet handler.
+[19Feb2025 18:31:08.794] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 136 crops
+[19Feb2025 18:31:08.795] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 6 crop tiers
+[19Feb2025 18:31:08.797] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 2 crop types
+[19Feb2025 18:31:08.797] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 55 augments
+[19Feb2025 18:31:08.798] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 20 mob soul types
+[19Feb2025 18:31:08.920] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/cyclops-core.json
+[19Feb2025 18:31:09.429] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cyclopscore] Found status: OUTDATED Current: 1.19.6 Target: 1.19.7
+[19Feb2025 18:31:09.431] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Starting version check at https://raw.githubusercontent.com/CyclopsMC/Versions/master/forge_update/evilcraft.json
+[19Feb2025 18:31:09.451] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [evilcraft] Found status: UP_TO_DATE Current: 1.2.51 Target: null
+[19Feb2025 18:31:09.452] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[19Feb2025 18:31:09.754] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.33
+[19Feb2025 18:31:09.755] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[19Feb2025 18:31:09.979] [modloading-worker-0/INFO] [com.klikli_dev.occultism.Occultism/]: Common setup complete.
+[19Feb2025 18:31:10.476] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[19Feb2025 18:31:10.476] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[19Feb2025 18:31:10.477] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[19Feb2025 18:31:10.478] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[19Feb2025 18:31:10.479] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[19Feb2025 18:31:10.479] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[19Feb2025 18:31:10.480] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[19Feb2025 18:31:10.564] [main/INFO] [com.klikli_dev.occultism.Occultism/]: Registered compostable Items
+[19Feb2025 18:31:10.580] [modloading-worker-0/INFO] [com.klikli_dev.occultism.Occultism/]: Dedicated server setup complete.
+[19Feb2025 18:31:10.673] [modloading-worker-0/WARN] [minecolonies/]: Register mappings
+[19Feb2025 18:31:12.727] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23196!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23196!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	... 6 more
+[19Feb2025 18:31:12.737] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Starting version check at https://update.maxhenkel.de/forge/easy_villagers
+[19Feb2025 18:31:13.229] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Found status: AHEAD Current: 1.20.1-1.1.23 Target: null
+[19Feb2025 18:31:13.231] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [occultism] Starting version check at https://raw.githubusercontent.com/klikli-dev/occultism/meta/updates.json
+[19Feb2025 18:31:13.246] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [occultism] Found status: BETA Current: 1.141.2 Target: null
+[19Feb2025 18:31:13.248] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsenchantments] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/Enchantments/update.json
+[19Feb2025 18:31:13.266] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsenchantments] Found status: UP_TO_DATE Current: 1.10.8 Target: null
+[19Feb2025 18:31:13.266] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/Library/update.json
+[19Feb2025 18:31:13.282] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Found status: AHEAD Current: 7.0.8 Target: null
+[19Feb2025 18:31:17.807] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19Feb2025 18:31:18.608] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: lootr:lootr_barrel Expected: 4088 Got: 4131
+[19Feb2025 18:31:18.608] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: lootr:lootr_chest Expected: 4089 Got: 4132
+[19Feb2025 18:31:18.608] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: lootr:lootr_trapped_chest Expected: 4090 Got: 4133
+[19Feb2025 18:31:18.609] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: lootr:lootr_inventory Expected: 4091 Got: 4134
+[19Feb2025 18:31:18.609] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: lootr:trophy Expected: 4092 Got: 4135
+[19Feb2025 18:31:18.609] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: lootr:lootr_shulker Expected: 4093 Got: 4136
+[19Feb2025 18:31:18.612] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: lootr:lootr_chest Expected: 7256 Got: 7482
+[19Feb2025 18:31:18.612] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: lootr:lootr_trapped_chest Expected: 7257 Got: 7483
+[19Feb2025 18:31:18.612] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: lootr:lootr_barrel Expected: 7258 Got: 7484
+[19Feb2025 18:31:18.613] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: lootr:lootr_inventory Expected: 7259 Got: 7485
+[19Feb2025 18:31:18.613] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: lootr:lootr_shulker Expected: 7260 Got: 7486
+[19Feb2025 18:31:18.613] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: lootr:trophy Expected: 7261 Got: 7487
+[19Feb2025 18:31:18.617] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: lootr:lootr_minecart Expected: 764 Got: 802
+[19Feb2025 18:31:23.583] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/myserver/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23195!/assets/.mcassetsroot' uses unexpected schema
+[19Feb2025 18:31:23.585] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/myserver/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23195!/data/.mcassetsroot' uses unexpected schema
