@@ -3049,6 +3049,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2025-02-22 19:57:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-02-22 19:44:52 +0000"
@@ -3136,6 +3142,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-02-22 19:44:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-02-22 19:57:57 +0000"
     },
     "done": true
   },
@@ -3274,6 +3286,12 @@
   "minecolonies:recipes/misc/large_empty_bottle": {
     "criteria": {
       "has_glass": "2025-02-22 19:44:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-02-22 19:57:57 +0000"
     },
     "done": true
   },
