@@ -512,3 +512,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [22Feb2025 15:57:26.776] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/28805, l='ServerLevel[world]', x=-3678.12, y=-16.00, z=-2765.37] died: Forge Sentry was slain by MadaraUchiha2909
 [22Feb2025 15:57:32.625] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/28804, l='ServerLevel[world]', x=-3676.40, y=-16.00, z=-2765.41] died: Forge Sentry was slain by MadaraUchiha2909
 [22Feb2025 15:58:54.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has made the advancement [Town of Bedrock]
+[22Feb2025 16:19:58.487] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:fire_magic_resist'
+[22Feb2025 16:19:58.488] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[22Feb2025 16:21:01.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has made the advancement [Sweet Dreams]
+[22Feb2025 16:24:14.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has made the advancement [Good Demoman]
