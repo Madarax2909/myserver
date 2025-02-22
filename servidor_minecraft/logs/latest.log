@@ -2642,3 +2642,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [22Feb2025 20:48:52.123] [Worker-Main-214/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [22Feb2025 20:49:24.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 tried to swim in lava
 [22Feb2025 20:53:00.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has completed the challenge [Cover Me in Debris]
+[22Feb2025 20:58:37.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has made the advancement [Junior Summoner]
