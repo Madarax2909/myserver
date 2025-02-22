@@ -1995,6 +1995,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/misc/supplycampdeployer": {
+    "criteria": {
+      "has_chest": "2025-02-22 16:49:59 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_foundry": {
     "criteria": {
       "location0": "2025-02-22 15:41:34 +0000"
@@ -2052,6 +2058,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2025-02-22 15:45:16 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_container": {
+    "criteria": {
+      "has_base_block": "2025-02-22 16:49:59 +0000"
     },
     "done": true
   },
@@ -2316,6 +2328,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-02-22 16:19:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/oak_banister": {
+    "criteria": {
+      "has_item": "2025-02-22 16:54:02 +0000"
     },
     "done": true
   },
