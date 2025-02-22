@@ -521,10 +521,12 @@
       "minecraft:blaze": "2025-02-22 15:51:25 +0000",
       "minecraft:pillager": "2025-02-22 16:38:47 +0000",
       "minecraft:skeleton": "2025-02-19 14:38:48 +0000",
+      "minecraft:spider": "2025-02-22 17:49:26 +0000",
       "minecraft:wither_skeleton": "2025-02-22 15:53:26 +0000",
       "minecraft:cave_spider": "2025-02-19 15:12:06 +0000",
       "minecraft:enderman": "2025-02-22 17:28:39 +0000",
-      "minecraft:zombie": "2025-02-19 14:39:10 +0000"
+      "minecraft:zombie": "2025-02-19 14:39:10 +0000",
+      "minecraft:zombie_villager": "2025-02-22 17:38:25 +0000"
     },
     "done": false
   },
@@ -2021,6 +2023,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_0": "2025-02-22 17:38:30 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-02-22 15:47:48 +0000"
@@ -2333,6 +2341,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "skeleton_creeper": "2025-02-22 17:39:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-02-22 15:41:50 +0000"
@@ -2354,6 +2368,12 @@
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2025-02-22 15:41:50 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2025-02-22 17:38:19 +0000"
     },
     "done": true
   },
