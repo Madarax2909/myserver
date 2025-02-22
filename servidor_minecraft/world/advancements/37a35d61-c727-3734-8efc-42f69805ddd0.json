@@ -522,6 +522,7 @@
       "minecraft:pillager": "2025-02-22 16:38:47 +0000",
       "minecraft:skeleton": "2025-02-19 14:38:48 +0000",
       "minecraft:spider": "2025-02-22 17:49:26 +0000",
+      "minecraft:creeper": "2025-02-22 17:50:20 +0000",
       "minecraft:wither_skeleton": "2025-02-22 15:53:26 +0000",
       "minecraft:cave_spider": "2025-02-19 15:12:06 +0000",
       "minecraft:enderman": "2025-02-22 17:28:39 +0000",
@@ -2005,6 +2006,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-02-22 18:02:47 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/misc/supplycampdeployer": {
     "criteria": {
       "has_chest": "2025-02-22 16:49:59 +0000"
@@ -2248,6 +2255,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-22 15:58:57 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_forging": {
+    "criteria": {
+      "dark_forging_0": "2025-02-22 18:03:58 +0000"
     },
     "done": true
   },
@@ -2545,6 +2558,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-02-22 18:02:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-02-22 16:19:14 +0000"
@@ -2555,6 +2574,12 @@
     "criteria": {
       "has_item2_domum_ornamentum_cream_bricks": "2025-02-22 15:58:57 +0000",
       "has_item1_domum_ornamentum_cream_bricks": "2025-02-22 15:58:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-02-22 18:02:47 +0000"
     },
     "done": true
   },
@@ -2643,6 +2668,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-02-22 17:52:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2025-02-22 15:58:08 +0000"
@@ -2688,6 +2719,12 @@
   "born_in_chaos_v1:exorcism": {
     "criteria": {
       "exorcism_0": "2025-02-22 17:28:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-02-22 17:53:19 +0000"
     },
     "done": true
   },
