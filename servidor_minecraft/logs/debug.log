@@ -4727,3 +4727,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [23Feb2025 23:40:59.562] [Server thread/DEBUG] [mixin/]: Mixing PiglinAiMixin from relics.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [23Feb2025 23:40:59.562] [Server thread/DEBUG] [mixin/]: relics.mixins.json:PiglinAiMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
 [23Feb2025 23:40:59.565] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[23Feb2025 23:45:30.923] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2025 23:45:30.949] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Feb2025 23:45:58.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of MadaraUchiha2909) moved wrongly! 0.25523472702207073
+[23Feb2025 23:45:58.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Subterranodon (vehicle of MadaraUchiha2909) moved wrongly! 0.5778380032379573
+[23Feb2025 23:46:23.128] [Worker-Main-13/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[23Feb2025 23:50:30.918] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Feb2025 23:50:30.941] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
