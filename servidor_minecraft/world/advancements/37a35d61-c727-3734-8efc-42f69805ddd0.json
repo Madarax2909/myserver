@@ -3528,21 +3528,33 @@
     },
     "done": true
   },
-  "minecolonies:recipes/misc/blockhutbuilder": {
+  "minecraft:adventure/totem_of_undying": {
     "criteria": {
-      "has_the_recipe": "2025-02-23 18:33:57 +0000"
+      "used_totem": "2025-02-23 17:37:33 +0000"
     },
     "done": true
   },
-  "minecolonies:recipes/misc/blockhuthospital": {
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
-      "has_items": "2025-02-23 18:16:10 +0000"
+      "has_potato": "2025-02-23 17:41:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/mangrove_pressure_plate": {
+  "minecraft:recipes/food/baked_potato": {
     "criteria": {
-      "has_planks": "2025-02-23 18:12:01 +0000"
+      "has_potato": "2025-02-23 17:41:32 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/food/potato_soup": {
+    "criteria": {
+      "has_potato": "2025-02-23 17:41:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-02-23 17:41:32 +0000"
     },
     "done": true
   },
@@ -3561,12 +3573,6 @@
   "minecolonies:recipes/misc/blockhutcrusher": {
     "criteria": {
       "has_items": "2025-02-23 18:11:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mangrove_sign": {
-    "criteria": {
-      "has_planks": "2025-02-23 18:12:01 +0000"
     },
     "done": true
   },
@@ -3600,39 +3606,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2025-02-23 17:41:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2025-02-23 17:41:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mangrove_stairs": {
-    "criteria": {
-      "has_planks": "2025-02-23 18:12:01 +0000"
-    },
-    "done": true
-  },
   "minecolonies:recipes/misc/blockwaypoint": {
     "criteria": {
       "has_build_tool": "2025-02-23 18:11:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/mangrove_door": {
-    "criteria": {
-      "has_planks": "2025-02-23 18:12:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/totem_of_undying": {
-    "criteria": {
-      "used_totem": "2025-02-23 17:37:33 +0000"
     },
     "done": true
   },
@@ -3660,21 +3636,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mangrove_fence": {
+  "minecolonies:recipes/misc/blockhutlibrary": {
+    "criteria": {
+      "has_items": "2025-02-23 18:11:39 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/blockhutuniversity": {
+    "criteria": {
+      "has_items": "2025-02-23 18:11:39 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/blockhutcitizen": {
+    "criteria": {
+      "has_items": "2025-02-23 18:11:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-23 18:12:01 +0000"
     },
     "done": true
   },
-  "minecolonies:recipes/food/potato_soup": {
+  "minecraft:recipes/decorations/mangrove_sign": {
     "criteria": {
-      "has_potato": "2025-02-23 17:41:32 +0000"
+      "has_planks": "2025-02-23 18:12:01 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
+  "minecraft:recipes/building_blocks/mangrove_stairs": {
     "criteria": {
-      "has_potato": "2025-02-23 17:41:32 +0000"
+      "has_planks": "2025-02-23 18:12:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_door": {
+    "criteria": {
+      "has_planks": "2025-02-23 18:12:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_fence": {
+    "criteria": {
+      "has_planks": "2025-02-23 18:12:01 +0000"
     },
     "done": true
   },
@@ -3690,33 +3696,69 @@
     },
     "done": true
   },
-  "minecolonies:recipes/misc/blockhutlibrary": {
-    "criteria": {
-      "has_items": "2025-02-23 18:11:39 +0000"
-    },
-    "done": true
-  },
-  "minecolonies:recipes/misc/blockhutuniversity": {
-    "criteria": {
-      "has_items": "2025-02-23 18:11:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/mangrove_button": {
     "criteria": {
       "has_planks": "2025-02-23 18:12:01 +0000"
     },
     "done": true
   },
-  "minecolonies:recipes/misc/blockhutcitizen": {
-    "criteria": {
-      "has_items": "2025-02-23 18:11:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mangrove_slab": {
     "criteria": {
       "has_planks": "2025-02-23 18:12:01 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/blockhuthospital": {
+    "criteria": {
+      "has_items": "2025-02-23 18:16:10 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/blockhutbuilder": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 18:33:57 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/start_builder": {
+    "criteria": {
+      "builder_request": "2025-02-23 18:52:02 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecraft/craft_supply": {
+    "criteria": {
+      "supply_ship": "2025-02-23 18:47:09 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/check_out_guide": {
+    "criteria": {
+      "click_gui_button_close": "2025-02-23 18:50:15 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/blockstash": {
+    "criteria": {
+      "has_items": "2025-02-23 18:45:41 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/blockhutwarehouse": {
+    "criteria": {
+      "has_items": "2025-02-23 18:45:41 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/blockpostbox": {
+    "criteria": {
+      "has_items": "2025-02-23 18:45:41 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/root": {
+    "criteria": {
+      "supply_ship_placed": "2025-02-23 18:47:09 +0000"
     },
     "done": true
   },
