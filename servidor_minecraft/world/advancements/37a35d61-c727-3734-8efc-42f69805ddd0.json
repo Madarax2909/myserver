@@ -3720,9 +3720,69 @@
     },
     "done": true
   },
+  "minecolonies:recipes/misc/blockstash": {
+    "criteria": {
+      "has_items": "2025-02-23 18:45:41 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/blockhutwarehouse": {
+    "criteria": {
+      "has_items": "2025-02-23 18:45:41 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/blockpostbox": {
+    "criteria": {
+      "has_items": "2025-02-23 18:45:41 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecraft/craft_supply": {
+    "criteria": {
+      "supply_ship": "2025-02-23 18:47:09 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/root": {
+    "criteria": {
+      "supply_ship_placed": "2025-02-23 18:47:09 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/check_out_guide": {
+    "criteria": {
+      "click_gui_button_close": "2025-02-23 18:50:15 +0000"
+    },
+    "done": true
+  },
   "minecolonies:minecolonies/start_builder": {
     "criteria": {
       "builder_request": "2025-02-23 18:52:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-02-23 18:58:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-02-23 18:58:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-02-23 18:59:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-23 18:59:05 +0000"
     },
     "done": true
   },
@@ -3738,33 +3798,9 @@
     },
     "done": true
   },
-  "minecolonies:minecraft/craft_supply": {
-    "criteria": {
-      "supply_ship": "2025-02-23 18:47:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-02-23 19:02:15 +0000"
-    },
-    "done": true
-  },
-  "minecolonies:minecolonies/check_out_guide": {
-    "criteria": {
-      "click_gui_button_close": "2025-02-23 18:50:15 +0000"
-    },
-    "done": true
-  },
-  "minecolonies:recipes/misc/blockstash": {
-    "criteria": {
-      "has_items": "2025-02-23 18:45:41 +0000"
-    },
-    "done": true
-  },
-  "minecolonies:recipes/misc/blockhutwarehouse": {
-    "criteria": {
-      "has_items": "2025-02-23 18:45:41 +0000"
     },
     "done": true
   },
@@ -3780,27 +3816,9 @@
     },
     "done": true
   },
-  "minecolonies:recipes/misc/blockpostbox": {
-    "criteria": {
-      "has_items": "2025-02-23 18:45:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-02-23 19:02:15 +0000"
-    },
-    "done": true
-  },
-  "minecolonies:minecolonies/citizen_eat_food_first": {
-    "criteria": {
-      "citizen_eat_anything": "2025-02-23 19:09:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2025-02-23 18:58:43 +0000"
     },
     "done": true
   },
@@ -3822,33 +3840,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2025-02-23 18:59:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2025-02-23 18:58:43 +0000"
-    },
-    "done": true
-  },
-  "minecolonies:minecolonies/root": {
-    "criteria": {
-      "supply_ship_placed": "2025-02-23 18:47:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-02-23 18:59:05 +0000"
-    },
-    "done": true
-  },
   "minecolonies:recipes/misc/blockhutgraveyard": {
     "criteria": {
       "has_items": "2025-02-23 19:09:02 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/citizen_eat_food_first": {
+    "criteria": {
+      "citizen_eat_anything": "2025-02-23 19:09:48 +0000"
     },
     "done": true
   },
