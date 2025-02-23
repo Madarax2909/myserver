@@ -550,6 +550,7 @@
       "minecraft:skeleton": "2025-02-19 14:38:48 +0000",
       "minecraft:spider": "2025-02-22 17:49:26 +0000",
       "minecraft:creeper": "2025-02-22 17:50:20 +0000",
+      "minecraft:zombified_piglin": "2025-02-23 16:31:00 +0000",
       "minecraft:wither_skeleton": "2025-02-22 15:53:26 +0000",
       "minecraft:cave_spider": "2025-02-19 15:12:06 +0000",
       "minecraft:enderman": "2025-02-22 17:28:39 +0000",
@@ -3398,6 +3399,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-23 16:26:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2025-02-23 16:31:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-02-23 16:26:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-02-23 16:26:40 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/tame_tremorsaurus": {
     "criteria": {
       "killed": "2025-02-23 15:46:53 +0000"
@@ -3407,6 +3432,24 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-02-23 16:00:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-23 16:26:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-23 16:26:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2025-02-23 16:31:27 +0000"
     },
     "done": true
   },
@@ -3422,15 +3465,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-23 16:26:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-02-23 16:32:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-02-23 16:15:25 +0000"
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/lapis_dust_from_gem": {
+    "criteria": {
+      "has_lapis_gem": "2025-02-23 16:26:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-02-23 16:15:25 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/taboo_book": {
+    "criteria": {
+      "has_book": "2025-02-23 16:26:40 +0000"
     },
     "done": true
   },
