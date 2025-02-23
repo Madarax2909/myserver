@@ -3528,6 +3528,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/misc/blockhutbuilder": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 18:33:57 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/misc/blockhuthospital": {
     "criteria": {
       "has_items": "2025-02-23 18:16:10 +0000"
