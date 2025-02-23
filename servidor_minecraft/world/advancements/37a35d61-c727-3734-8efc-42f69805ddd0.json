@@ -3528,6 +3528,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/misc/blockhuthospital": {
+    "criteria": {
+      "has_items": "2025-02-23 18:16:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/mangrove_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-23 18:12:01 +0000"
