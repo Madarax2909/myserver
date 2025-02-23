@@ -3792,6 +3792,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/citizen_eat_food_first": {
+    "criteria": {
+      "citizen_eat_anything": "2025-02-23 19:09:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-02-23 18:58:43 +0000"
@@ -3837,6 +3843,12 @@
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-02-23 18:59:05 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/blockhutgraveyard": {
+    "criteria": {
+      "has_items": "2025-02-23 19:09:02 +0000"
     },
     "done": true
   },

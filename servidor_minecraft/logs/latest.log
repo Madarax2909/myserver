@@ -1671,3 +1671,6 @@ java.lang.NullPointerException: Cannot invoke "com.ldtteam.structurize.storage.S
 [23Feb2025 18:52:02.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has made the advancement [The Builder Begins]
 [23Feb2025 19:00:36.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Creative Mode]
 [23Feb2025 19:01:24.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Survival Mode]
+[23Feb2025 19:09:48.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has made the advancement [Another Mouth to Feed]
+[23Feb2025 19:16:18.291] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MadaraUchiha2909 lost connection: Disconnected
+[23Feb2025 19:16:18.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 left the game
