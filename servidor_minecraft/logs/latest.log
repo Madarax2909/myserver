@@ -406,3 +406,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [23Feb2025 15:36:24.011] [Server thread/INFO] [structurize/]: New Server UUID 001b50dc-2f86-4443-9840-8559637e29e8
 [23Feb2025 15:36:27.818] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4587ms or 91 ticks behind
 [23Feb2025 15:43:26.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has made the advancement [Strictly Medicinal Purposes]
+[23Feb2025 15:45:11.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Spectator Mode]
+[23Feb2025 15:45:12.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Survival Mode]
+[23Feb2025 15:46:53.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has reached the goal [Tyrant King]
+[23Feb2025 16:02:06.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Creative Mode]
+[23Feb2025 16:02:33.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Survival Mode]
