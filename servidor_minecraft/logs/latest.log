@@ -1669,3 +1669,5 @@ java.lang.NullPointerException: Cannot invoke "com.ldtteam.structurize.storage.S
 [23Feb2025 18:49:36.611] [Server thread/WARN] [minecolonies/]: Handling Survival Placement in Colony
 [23Feb2025 18:50:15.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has made the advancement [Check Out the Guide]
 [23Feb2025 18:52:02.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has made the advancement [The Builder Begins]
+[23Feb2025 19:00:36.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Creative Mode]
+[23Feb2025 19:01:24.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Survival Mode]
