@@ -72,6 +72,7 @@
       "minecraft:deep_cold_ocean": "2025-02-22 18:38:52 +0000",
       "minecraft:ocean": "2025-02-22 18:32:15 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-02-22 18:32:37 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-02-24 01:02:43 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-22 18:28:52 +0000",
       "minecraft:deep_dark": "2025-02-19 19:42:47 +0000",
       "minecraft:savanna": "2025-02-19 15:21:22 +0000",
@@ -113,6 +114,7 @@
     "criteria": {
       "woodland": "2025-02-19 19:34:04 +0000",
       "shrubland": "2025-02-22 18:30:56 +0000",
+      "rocky_shrubland": "2025-02-24 01:03:50 +0000",
       "scrubland": "2025-02-19 20:14:13 +0000",
       "floodplain": "2025-02-23 16:16:50 +0000",
       "highland": "2025-02-22 19:13:38 +0000",
@@ -140,6 +142,7 @@
       "fir_clearing": "2025-02-22 18:37:30 +0000",
       "pumpkin_patch": "2025-02-22 18:56:40 +0000",
       "prairie": "2025-02-22 18:22:11 +0000",
+      "grassland": "2025-02-24 01:03:52 +0000",
       "gravel_beach": "2025-02-22 18:38:22 +0000",
       "glowing_grotto": "2025-02-23 23:48:33 +0000",
       "rainforest": "2025-02-19 20:12:28 +0000",
@@ -3855,6 +3858,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-02-23 23:42:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_black_carpet": {
     "criteria": {
       "has_needed_dye": "2025-02-23 23:44:04 +0000"
@@ -3864,12 +3873,6 @@
   "minecraft:recipes/building_blocks/dye_black_bed": {
     "criteria": {
       "has_needed_dye": "2025-02-23 23:44:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye": {
-    "criteria": {
-      "has_ink_sac": "2025-02-23 23:42:31 +0000"
     },
     "done": true
   },
@@ -3891,12 +3894,6 @@
     },
     "done": true
   },
-  "minecolonies:recipes/misc/blockhutmysticalsite": {
-    "criteria": {
-      "has_items": "2025-02-23 23:44:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_black_dye": "2025-02-23 23:44:04 +0000"
@@ -3912,6 +3909,18 @@
   "minecraft:recipes/building_blocks/dye_black_wool": {
     "criteria": {
       "has_needed_dye": "2025-02-23 23:44:04 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/blockhutmysticalsite": {
+    "criteria": {
+      "has_items": "2025-02-23 23:44:12 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2025-02-24 01:02:22 +0000"
     },
     "done": true
   },
