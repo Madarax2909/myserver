@@ -453,3 +453,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [24Feb2025 02:19:31.394] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3701, y=87, z=-2748} BlockPos{x=-3702, y=87, z=-2749}
 [24Feb2025 02:19:31.444] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3701, y=87, z=-2748} BlockPos{x=-3702, y=87, z=-2749}
 [24Feb2025 02:19:31.494] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3701, y=87, z=-2748} BlockPos{x=-3702, y=87, z=-2749}
+[24Feb2025 02:37:55.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MadaraUchiha2909> asd
+[24Feb2025 02:38:07.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MadaraUchiha2909> asdwas d
+[24Feb2025 02:38:14.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MadaraUchiha2909> asdw
+[24Feb2025 02:38:25.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MadaraUchiha2909> yaaaaaaa
+[24Feb2025 02:38:37.408] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MadaraUchiha2909 lost connection: Disconnected
+[24Feb2025 02:38:37.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 left the game
+[24Feb2025 02:38:57.424] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MadaraUchiha2909[/172.23.164.249:52774] logged in with entity id 14846 at (-4576.13377493852, 223.5, -2196.579364618023)
+[24Feb2025 02:38:57.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 joined the game
+[24Feb2025 02:39:15.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MadaraUchiha2909> asdw
+[24Feb2025 02:39:26.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MadaraUchiha2909> aaaa
+[24Feb2025 02:39:37.408] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MadaraUchiha2909 lost connection: Timed out
+[24Feb2025 02:39:37.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 left the game
+[24Feb2025 02:40:06.366] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MadaraUchiha2909[/172.23.164.249:52809] logged in with entity id 14917 at (-4574.798535789549, 221.5, -2196.323421543703)
+[24Feb2025 02:40:06.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 joined the game
+[24Feb2025 02:40:25.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MadaraUchiha2909> aaaa
+[24Feb2025 02:40:27.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MadaraUchiha2909> xd
+[24Feb2025 02:43:43.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 fell from a high place
+[24Feb2025 02:43:55.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to -4580.500000, 64.500000, -2192.500000]
+[24Feb2025 02:44:10.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Spectator Mode]
+[24Feb2025 02:44:37.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Creative Mode]
+[24Feb2025 02:45:27.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Survival Mode]
