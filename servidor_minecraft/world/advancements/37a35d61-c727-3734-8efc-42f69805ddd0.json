@@ -565,6 +565,7 @@
       "minecraft:enderman": "2025-02-22 17:28:39 +0000",
       "minecraft:stray": "2025-02-22 18:46:57 +0000",
       "minecraft:zombie": "2025-02-19 14:39:10 +0000",
+      "minecraft:drowned": "2025-02-24 03:10:30 +0000",
       "minecraft:zombie_villager": "2025-02-22 17:38:25 +0000"
     },
     "done": false
@@ -4188,6 +4189,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-02-24 02:59:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2025-02-24 02:59:33 +0000"
@@ -4236,15 +4243,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_logs": "2025-02-24 02:59:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-24 02:59:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-02-24 03:14:47 +0000"
     },
     "done": true
   },
