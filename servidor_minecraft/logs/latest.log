@@ -417,3 +417,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [24Feb2025 15:39:25.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Gamerule disableRaids is now set to: true]
 [24Feb2025 15:39:28.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Gamerule disableRaids is now set to: false]
 [24Feb2025 15:39:36.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Applied effect Bad Omen to MadaraUchiha2909]
+[24Feb2025 15:45:13.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Applied effect Bad Omen to MadaraUchiha2909]
+[24Feb2025 15:45:38.041] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/11655, l='ServerLevel[world]', x=-4580.70, y=195.00, z=-2190.70] died, message: 'Farmer was slain by MadaraUchiha2909'
+[24Feb2025 15:46:24.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Applied effect Bad Omen to MadaraUchiha2909]
+[24Feb2025 15:51:21.534] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MadaraUchiha2909 lost connection: Disconnected
+[24Feb2025 15:51:21.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 left the game
