@@ -1015,3 +1015,38 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [27Feb2025 21:53:43.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MadaraUchiha2909> wazaaa
 [27Feb2025 22:13:03.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has reached the goal [Fighting Nightmares]
 [27Feb2025 22:13:35.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORY_CT has made the advancement [Life turned out to be a comedy]
+[27Feb2025 22:17:07.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORY_CT has made the advancement [Mana-tastic]
+[27Feb2025 22:22:08.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to LORY_CT]
+[27Feb2025 22:23:28.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORY_CT has made the advancement [Cover Me with Diamonds]
+[27Feb2025 22:29:08.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORY_CT was slain by Husk
+[27Feb2025 22:29:13.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported LORY_CT to MadaraUchiha2909]
+[27Feb2025 22:29:23.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has made the advancement [Close Quarters]
+[27Feb2025 22:29:42.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORY_CT has made the advancement [Close Quarters]
+[27Feb2025 22:29:46.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORY_CT has made the advancement [Ice Bucket Challenge]
+[27Feb2025 22:30:53.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was killed by Area Effect Cloud using magic
+[27Feb2025 22:30:56.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to LORY_CT]
+[27Feb2025 22:31:34.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has made the advancement [Ice Bucket Challenge]
+[27Feb2025 22:32:22.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to LORY_CT]
+[27Feb2025 22:34:10.864] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Feb2025 22:34:10.864] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Feb2025 22:34:10.873] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Feb2025 22:34:10.873] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Feb2025 22:34:10.873] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Feb2025 22:34:10.874] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Feb2025 22:34:10.874] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Feb2025 22:35:48.681] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: M5T1[/172.23.175.19:58031] logged in with entity id 33860 at (-2.5, 80.0, 0.5)
+[27Feb2025 22:35:48.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M5T1 joined the game
+[27Feb2025 22:35:48.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M5T1 has reached the goal [Choose Your Class]
+[27Feb2025 22:35:48.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M5T1 has made the advancement [Terramity]
+[27Feb2025 22:37:16.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported M5T1 to MadaraUchiha2909]
+[27Feb2025 22:37:27.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M5T1 has completed the challenge [Mage Class]
+[27Feb2025 22:37:53.519] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Feb2025 22:37:53.519] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Feb2025 22:37:53.519] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Feb2025 22:37:53.520] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Feb2025 22:37:53.520] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Feb2025 22:38:40.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has reached the goal [Horror of the Depths]
+[27Feb2025 22:38:45.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M5T1 has made the advancement [Disgusting Lootbox]
+[27Feb2025 22:39:05.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M5T1 has made the advancement [Barrel Booty]
+[27Feb2025 22:39:20.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M5T1 has made the advancement [Acquire Hardware]
+[27Feb2025 22:42:09.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to LORY_CT]

@@ -63,8 +63,10 @@
     "criteria": {
       "minecraft:sunflower_plains": "2025-02-27 21:21:29 +0000",
       "minecraft:savanna_plateau": "2025-02-27 21:36:49 +0000",
+      "minecraft:beach": "2025-02-27 22:34:05 +0000",
       "minecraft:river": "2025-02-27 21:19:11 +0000",
       "minecraft:forest": "2025-02-27 21:49:56 +0000",
+      "minecraft:ocean": "2025-02-27 22:34:46 +0000",
       "minecraft:flower_forest": "2025-02-27 21:29:49 +0000",
       "minecraft:savanna": "2025-02-27 20:54:47 +0000"
     },
@@ -118,9 +120,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-27 22:23:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-02-27 21:19:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-27 22:23:57 +0000"
     },
     "done": true
   },
@@ -154,9 +168,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-27 22:23:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-02-27 21:35:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-27 22:23:57 +0000"
     },
     "done": true
   },
@@ -184,6 +210,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-27 22:23:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-02-27 21:37:35 +0000"
@@ -193,6 +225,12 @@
   "deeperdarker:recipes/transportation/bloom_boat": {
     "criteria": {
       "in_water": "2025-02-27 21:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-27 22:23:57 +0000"
     },
     "done": true
   },
@@ -283,10 +321,17 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-02-27 21:08:36 +0000",
+      "minecraft:spider": "2025-02-27 22:11:39 +0000",
       "minecraft:husk": "2025-02-27 21:07:34 +0000",
       "minecraft:zombie": "2025-02-27 21:13:18 +0000"
     },
     "done": false
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-02-27 22:13:03 +0000"
+    },
+    "done": true
   },
   "domum_ornamentum:recipes/decorations/green_floating_carpet": {
     "criteria": {
@@ -297,6 +342,12 @@
   "occultism:recipes/food/crafting/demons_dream_essence_from_seeds": {
     "criteria": {
       "has_datura": "2025-02-27 21:55:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-27 22:23:57 +0000"
     },
     "done": true
   },
@@ -408,6 +459,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-27 22:23:57 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/flower_bag": {
     "criteria": {
       "has_item": "2025-02-27 21:48:34 +0000"
@@ -499,6 +556,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/gold_dust_from_ingot": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-27 22:23:57 +0000"
+    },
+    "done": true
+  },
   "illusion_onslaught:strange_scrolls": {
     "criteria": {
       "strange_scrolls": "2025-02-27 21:15:25 +0000"
@@ -571,6 +634,12 @@
     },
     "done": true
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-02-27 22:29:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-02-27 21:15:37 +0000"
@@ -598,6 +667,12 @@
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "scrubland": "2025-02-27 21:15:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-02-27 22:31:34 +0000"
     },
     "done": true
   },
@@ -631,6 +706,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-27 22:23:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-02-27 21:06:15 +0000"
@@ -652,6 +733,12 @@
   "biomesoplenty:recipes/transportation/pine_boat": {
     "criteria": {
       "in_water": "2025-02-27 21:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-27 22:23:57 +0000"
     },
     "done": true
   },
@@ -859,6 +946,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-02-27 22:34:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-27 21:03:04 +0000"
@@ -961,6 +1054,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-02-27 22:34:38 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/misc/shapetool": {
     "criteria": {
       "has_stick": "2025-02-27 21:06:15 +0000"
@@ -970,6 +1069,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-02-27 21:36:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-27 22:23:57 +0000"
     },
     "done": true
   },
@@ -1262,6 +1367,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-02-27 22:11:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_the_recipe": "2025-02-27 22:16:04 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/jacaranda_boat": {
     "criteria": {
       "in_water": "2025-02-27 21:11:24 +0000"
@@ -1286,9 +1403,21 @@
     },
     "done": true
   },
+  "minecolonies:recipes/food/potato_soup": {
+    "criteria": {
+      "has_potato": "2025-02-27 22:34:38 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2025-02-27 21:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-02-27 22:31:34 +0000"
     },
     "done": true
   },
@@ -1325,6 +1454,12 @@
   "lootr:10loot": {
     "criteria": {
       "loot_stat": "2025-02-27 21:32:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-02-27 22:34:38 +0000"
     },
     "done": true
   },
@@ -1424,6 +1559,18 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/obsidian_dust": {
+    "criteria": {
+      "has_obsidian": "2025-02-27 22:31:34 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horrorofthe_depths": {
+    "criteria": {
+      "horrorofthe_depths_0": "2025-02-27 22:38:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-02-27 21:09:41 +0000"
@@ -1442,6 +1589,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-27 22:23:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-02-27 21:05:26 +0000"
@@ -1451,6 +1604,12 @@
   "twilightforest:recipes/transportation/sorting_boat": {
     "criteria": {
       "in_water": "2025-02-27 21:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-02-27 22:31:34 +0000"
     },
     "done": true
   },
@@ -1517,6 +1676,12 @@
   "domum_ornamentum:recipes/decorations/purple_floating_carpet": {
     "criteria": {
       "has_string": "2025-02-27 21:15:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-27 22:23:57 +0000"
     },
     "done": true
   },
