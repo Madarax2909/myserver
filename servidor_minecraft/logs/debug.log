@@ -5284,3 +5284,43 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [27Feb2025 21:00:11.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has made the advancement [Gravedigger]
 [27Feb2025 21:01:26.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORY_CT has made the advancement [Stone Age]
 [27Feb2025 21:02:08.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has made the advancement [Stone Age]
+[27Feb2025 21:03:13.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORY_CT has made the advancement [Getting an Upgrade]
+[27Feb2025 21:04:11.186] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 21:04:11.211] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 21:05:22.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Gave 64 [Steak] to MadaraUchiha2909]
+[27Feb2025 21:06:29.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has made the advancement [Getting an Upgrade]
+[27Feb2025 21:07:08.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORY_CT has made the advancement [Monster Hunter]
+[27Feb2025 21:07:34.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has made the advancement [Monster Hunter]
+[27Feb2025 21:07:37.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has made the advancement [Barrel Booty]
+[27Feb2025 21:07:37.489] [Server thread/DEBUG] [mixin/]: Mixing PiglinAiMixin from relics.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[27Feb2025 21:07:37.489] [Server thread/DEBUG] [mixin/]: relics.mixins.json:PiglinAiMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[27Feb2025 21:07:37.493] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[27Feb2025 21:08:56.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was slain by Husk
+[27Feb2025 21:08:57.554] [Server thread/DEBUG] [twilightforest/]: Player MadaraUchiha2909 (37a35d61-c727-3734-8efc-42f69805ddd0) respawned and received items held in storage
+[27Feb2025 21:09:00.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to LORY_CT]
+[27Feb2025 21:09:03.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was slain by Husk
+[27Feb2025 21:09:04.548] [Server thread/DEBUG] [twilightforest/]: Player MadaraUchiha2909 (37a35d61-c727-3734-8efc-42f69805ddd0) respawned and received items held in storage
+[27Feb2025 21:09:08.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORY_CT was killed by Area Effect Cloud using magic
+[27Feb2025 21:09:10.646] [Server thread/DEBUG] [twilightforest/]: Player LORY_CT (07601648-dd31-3e60-8e1b-fb3f1c5bb057) respawned and received items held in storage
+[27Feb2025 21:09:11.206] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 21:09:11.226] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 21:09:15.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Gamerule keepInventory is now set to: true]
+[27Feb2025 21:09:21.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to 38.500000, 118.500000, 87.500000]
+[27Feb2025 21:09:29.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was slain by Husk
+[27Feb2025 21:09:30.445] [Server thread/DEBUG] [twilightforest/]: Player MadaraUchiha2909 (37a35d61-c727-3734-8efc-42f69805ddd0) respawned and received items held in storage
+[27Feb2025 21:09:33.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to 33.500000, 119.500000, 91.500000]
+[27Feb2025 21:09:36.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was slain by Husk
+[27Feb2025 21:09:38.170] [Server thread/DEBUG] [twilightforest/]: Player MadaraUchiha2909 (37a35d61-c727-3734-8efc-42f69805ddd0) respawned and received items held in storage
+[27Feb2025 21:09:41.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to 33.500000, 119.500000, 91.500000]
+[27Feb2025 21:09:55.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported LORY_CT to MadaraUchiha2909]
+[27Feb2025 21:10:49.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORY_CT has made the advancement [Barrel Booty]
+[27Feb2025 21:11:51.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was slain by Husk
+[27Feb2025 21:11:53.438] [Server thread/DEBUG] [twilightforest/]: Player MadaraUchiha2909 (37a35d61-c727-3734-8efc-42f69805ddd0) respawned and received items held in storage
+[27Feb2025 21:11:55.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to LORY_CT]
+[27Feb2025 21:12:44.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was slain by Husk
+[27Feb2025 21:12:45.887] [Server thread/DEBUG] [twilightforest/]: Player MadaraUchiha2909 (37a35d61-c727-3734-8efc-42f69805ddd0) respawned and received items held in storage
+[27Feb2025 21:12:47.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to LORY_CT]
+[27Feb2025 21:12:56.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORY_CT was slain by Husk
+[27Feb2025 21:13:00.115] [Server thread/DEBUG] [twilightforest/]: Player LORY_CT (07601648-dd31-3e60-8e1b-fb3f1c5bb057) respawned and received items held in storage
+[27Feb2025 21:13:04.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was slain by Husk
+[27Feb2025 21:13:05.432] [Server thread/DEBUG] [twilightforest/]: Player MadaraUchiha2909 (37a35d61-c727-3734-8efc-42f69805ddd0) respawned and received items held in storage
