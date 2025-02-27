@@ -6391,3 +6391,39 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [27Feb2025 23:13:51.241] [Server thread/DEBUG] [twilightforest/]: Player MadaraUchiha2909 (37a35d61-c727-3734-8efc-42f69805ddd0) respawned and received items held in storage
 [27Feb2025 23:14:11.204] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Feb2025 23:14:11.227] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 23:14:38.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORY_CT was burnt to a crisp whilst fighting Foundry Guardian
+[27Feb2025 23:14:39.628] [Server thread/DEBUG] [twilightforest/]: Player LORY_CT (07601648-dd31-3e60-8e1b-fb3f1c5bb057) respawned and received items held in storage
+[27Feb2025 23:14:40.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was slain by Magma Cube
+[27Feb2025 23:14:41.764] [Server thread/DEBUG] [twilightforest/]: Player MadaraUchiha2909 (37a35d61-c727-3734-8efc-42f69805ddd0) respawned and received items held in storage
+[27Feb2025 23:14:44.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to 48.500000, -7.500000, 78.500000]
+[27Feb2025 23:15:40.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was burnt to a crisp whilst fighting Foundry Guardian
+[27Feb2025 23:15:42.259] [Server thread/DEBUG] [twilightforest/]: Player MadaraUchiha2909 (37a35d61-c727-3734-8efc-42f69805ddd0) respawned and received items held in storage
+[27Feb2025 23:15:49.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to 71.500000, -6.500000, 117.500000]
+[27Feb2025 23:15:49.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORY_CT was slain by Foundry Guardian
+[27Feb2025 23:15:51.192] [Server thread/DEBUG] [twilightforest/]: Player LORY_CT (07601648-dd31-3e60-8e1b-fb3f1c5bb057) respawned and received items held in storage
+[27Feb2025 23:16:03.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 tried to swim in lava to escape Foundry Guardian
+[27Feb2025 23:16:05.149] [Server thread/DEBUG] [twilightforest/]: Player MadaraUchiha2909 (37a35d61-c727-3734-8efc-42f69805ddd0) respawned and received items held in storage
+[27Feb2025 23:16:52.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was burnt to a crisp whilst fighting Magma Cube
+[27Feb2025 23:16:53.461] [Server thread/DEBUG] [twilightforest/]: Player MadaraUchiha2909 (37a35d61-c727-3734-8efc-42f69805ddd0) respawned and received items held in storage
+[27Feb2025 23:16:55.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to 69.500000, -5.500000, 108.500000]
+[27Feb2025 23:17:37.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORY_CT was slain by Foundry Guardian
+[27Feb2025 23:17:39.129] [Server thread/DEBUG] [twilightforest/]: Player LORY_CT (07601648-dd31-3e60-8e1b-fb3f1c5bb057) respawned and received items held in storage
+[27Feb2025 23:18:18.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was killed by magic whilst trying to escape Forge Sentry
+[27Feb2025 23:18:20.416] [Server thread/DEBUG] [twilightforest/]: Player MadaraUchiha2909 (37a35d61-c727-3734-8efc-42f69805ddd0) respawned and received items held in storage
+[27Feb2025 23:19:04.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MadaraUchiha2909> asdwaa
+[27Feb2025 23:19:10.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MadaraUchiha2909> asdw
+[27Feb2025 23:19:11.198] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 23:19:11.221] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 23:19:37.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORY_CT was burnt to a crisp whilst fighting Foundry Guardian
+[27Feb2025 23:19:39.137] [Server thread/DEBUG] [twilightforest/]: Player LORY_CT (07601648-dd31-3e60-8e1b-fb3f1c5bb057) respawned and received items held in storage
+[27Feb2025 23:20:30.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has made the advancement [Penteconter]
+[27Feb2025 23:21:05.957] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/49383, l='ServerLevel[world]', x=78.83, y=-8.00, z=50.42] died: Forge Sentry was slain by MadaraUchiha2909
+[27Feb2025 23:21:10.640] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/49384, l='ServerLevel[world]', x=79.22, y=-8.00, z=48.70] died: Forge Sentry was slain by MadaraUchiha2909
+[27Feb2025 23:21:51.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORY_CT burned to death
+[27Feb2025 23:21:53.028] [Server thread/DEBUG] [twilightforest/]: Player LORY_CT (07601648-dd31-3e60-8e1b-fb3f1c5bb057) respawned and received items held in storage
+[27Feb2025 23:23:04.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORY_CT was slain by Magma Cube
+[27Feb2025 23:23:04.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Spectator Mode]
+[27Feb2025 23:23:06.142] [Server thread/DEBUG] [twilightforest/]: Player LORY_CT (07601648-dd31-3e60-8e1b-fb3f1c5bb057) respawned and received items held in storage
+[27Feb2025 23:23:21.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Survival Mode]
+[27Feb2025 23:24:11.204] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 23:24:11.231] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

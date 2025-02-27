@@ -114,6 +114,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-02-27 23:19:57 +0000"
+    },
+    "done": true
+  },
   "botania:challenge/root": {
     "criteria": {
       "flower": "2025-02-27 21:48:34 +0000"
@@ -384,6 +390,7 @@
       "minecraft:skeleton": "2025-02-27 21:08:36 +0000",
       "minecraft:magma_cube": "2025-02-27 23:05:13 +0000",
       "minecraft:spider": "2025-02-27 22:11:39 +0000",
+      "minecraft:wither_skeleton": "2025-02-27 23:21:05 +0000",
       "minecraft:husk": "2025-02-27 21:07:34 +0000",
       "minecraft:zombie": "2025-02-27 21:13:18 +0000"
     },
@@ -681,6 +688,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-02-27 21:35:53 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-02-27 23:20:30 +0000"
     },
     "done": true
   },
@@ -2013,6 +2026,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-02-27 23:21:59 +0000",
       "cooked_beef": "2025-02-27 21:05:26 +0000"
     },
     "done": false
