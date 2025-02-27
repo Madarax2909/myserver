@@ -1111,3 +1111,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [27Feb2025 23:03:44.153] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/41040, l='ServerLevel[world]', x=11.11, y=-8.23, z=145.44] died: Forge Sentry was slain by LORY_CT
 [27Feb2025 23:03:58.902] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/41136, l='ServerLevel[world]', x=7.44, y=-6.01, z=147.18] died: Foundry Guardian was slain by MadaraUchiha2909
 [27Feb2025 23:04:05.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M5T1 has made the advancement [Isn't It Iron Pick]
+[27Feb2025 23:04:13.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was slain by Magma Cube
+[27Feb2025 23:04:21.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORY_CT was killed by magic whilst trying to escape Forge Sentry
+[27Feb2025 23:04:32.430] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/41451, l='ServerLevel[world]', x=-9.65, y=-4.65, z=141.34] died: Foundry Guardian was slain by LORY_CT
+[27Feb2025 23:04:36.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORY_CT has made the advancement [Into Fire]
+[27Feb2025 23:04:45.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was slain by Magma Cube
+[27Feb2025 23:05:24.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORY_CT was slain by Magma Cube
+[27Feb2025 23:06:28.156] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/41515, l='ServerLevel[world]', x=9.50, y=-9.00, z=120.76] died: Forge Sentry was slain by LORY_CT
+[27Feb2025 23:06:46.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORY_CT was slain by Magma Cube
+[27Feb2025 23:06:52.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was slain by Magma Cube
+[27Feb2025 23:07:06.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M5T1 has made the advancement [First Age]
+[27Feb2025 23:07:16.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORY_CT was burnt to a crisp whilst fighting Magma Cube
+[27Feb2025 23:07:51.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORY_CT was slain by Magma Cube
+[27Feb2025 23:08:57.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was slain by Magma Cube
+[27Feb2025 23:10:05.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was slain by Magma Cube
+[27Feb2025 23:10:26.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was slain by Magma Cube
+[27Feb2025 23:12:00.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has made the advancement [Hidden in the Depths]
+[27Feb2025 23:12:28.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORY_CT has made the advancement [Hidden in the Depths]
+[27Feb2025 23:12:37.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was burnt to a crisp whilst fighting Foundry Guardian
+[27Feb2025 23:13:29.232] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/44569, l='ServerLevel[world]', x=16.35, y=-6.97, z=103.36] died: Foundry Guardian was slain by LORY_CT
+[27Feb2025 23:13:30.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has made the advancement [Who is Cutting Onions?]
+[27Feb2025 23:13:49.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 burned to death

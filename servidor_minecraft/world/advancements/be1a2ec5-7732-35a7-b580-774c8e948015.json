@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/misc/supplycampdeployer": {
+    "criteria": {
+      "has_chest": "2025-02-27 23:10:56 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/echo_boat": {
     "criteria": {
       "in_water": "2025-02-27 22:38:01 +0000"
@@ -44,6 +50,18 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-02-27 22:47:07 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:root": {
+    "criteria": {
+      "criteria_0": "2025-02-27 23:07:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-27 23:06:57 +0000"
     },
     "done": true
   },
@@ -176,6 +194,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-02-27 22:44:53 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_container": {
+    "criteria": {
+      "has_base_block": "2025-02-27 23:10:56 +0000"
     },
     "done": true
   },
@@ -481,6 +505,12 @@
     },
     "done": true
   },
+  "evilcraft:first_age": {
+    "criteria": {
+      "criteria_0": "2025-02-27 23:07:06 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "scrubland": "2025-02-27 22:44:15 +0000"
@@ -730,6 +760,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_chainmail_boots": "2025-02-27 22:39:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-27 23:06:57 +0000"
     },
     "done": true
   },
@@ -1058,6 +1094,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/lapis_dust_from_gem": {
+    "criteria": {
+      "has_lapis_gem": "2025-02-27 23:06:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-02-27 23:03:22 +0000"
@@ -1207,6 +1249,7 @@
       "minecraft:savanna_plateau": "2025-02-27 22:56:18 +0000",
       "minecraft:beach": "2025-02-27 22:39:47 +0000",
       "minecraft:river": "2025-02-27 22:42:37 +0000",
+      "minecraft:dripstone_caves": "2025-02-27 23:06:58 +0000",
       "minecraft:ocean": "2025-02-27 22:37:36 +0000",
       "minecraft:flower_forest": "2025-02-27 22:37:16 +0000",
       "minecraft:savanna": "2025-02-27 22:35:49 +0000"

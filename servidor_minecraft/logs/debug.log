@@ -6353,3 +6353,41 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [27Feb2025 23:04:05.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M5T1 has made the advancement [Isn't It Iron Pick]
 [27Feb2025 23:04:11.188] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Feb2025 23:04:11.212] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 23:04:13.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was slain by Magma Cube
+[27Feb2025 23:04:15.298] [Server thread/DEBUG] [twilightforest/]: Player MadaraUchiha2909 (37a35d61-c727-3734-8efc-42f69805ddd0) respawned and received items held in storage
+[27Feb2025 23:04:21.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORY_CT was killed by magic whilst trying to escape Forge Sentry
+[27Feb2025 23:04:22.957] [Server thread/DEBUG] [twilightforest/]: Player LORY_CT (07601648-dd31-3e60-8e1b-fb3f1c5bb057) respawned and received items held in storage
+[27Feb2025 23:04:32.430] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/41451, l='ServerLevel[world]', x=-9.65, y=-4.65, z=141.34] died: Foundry Guardian was slain by LORY_CT
+[27Feb2025 23:04:36.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORY_CT has made the advancement [Into Fire]
+[27Feb2025 23:04:45.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was slain by Magma Cube
+[27Feb2025 23:04:46.700] [Server thread/DEBUG] [twilightforest/]: Player MadaraUchiha2909 (37a35d61-c727-3734-8efc-42f69805ddd0) respawned and received items held in storage
+[27Feb2025 23:05:24.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORY_CT was slain by Magma Cube
+[27Feb2025 23:05:25.687] [Server thread/DEBUG] [twilightforest/]: Player LORY_CT (07601648-dd31-3e60-8e1b-fb3f1c5bb057) respawned and received items held in storage
+[27Feb2025 23:06:28.156] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/41515, l='ServerLevel[world]', x=9.50, y=-9.00, z=120.76] died: Forge Sentry was slain by LORY_CT
+[27Feb2025 23:06:46.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORY_CT was slain by Magma Cube
+[27Feb2025 23:06:47.940] [Server thread/DEBUG] [twilightforest/]: Player LORY_CT (07601648-dd31-3e60-8e1b-fb3f1c5bb057) respawned and received items held in storage
+[27Feb2025 23:06:52.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was slain by Magma Cube
+[27Feb2025 23:06:54.085] [Server thread/DEBUG] [twilightforest/]: Player MadaraUchiha2909 (37a35d61-c727-3734-8efc-42f69805ddd0) respawned and received items held in storage
+[27Feb2025 23:07:06.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M5T1 has made the advancement [First Age]
+[27Feb2025 23:07:16.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORY_CT was burnt to a crisp whilst fighting Magma Cube
+[27Feb2025 23:07:17.645] [Server thread/DEBUG] [twilightforest/]: Player LORY_CT (07601648-dd31-3e60-8e1b-fb3f1c5bb057) respawned and received items held in storage
+[27Feb2025 23:07:51.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORY_CT was slain by Magma Cube
+[27Feb2025 23:07:53.476] [Server thread/DEBUG] [twilightforest/]: Player LORY_CT (07601648-dd31-3e60-8e1b-fb3f1c5bb057) respawned and received items held in storage
+[27Feb2025 23:08:57.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was slain by Magma Cube
+[27Feb2025 23:08:59.154] [Server thread/DEBUG] [twilightforest/]: Player MadaraUchiha2909 (37a35d61-c727-3734-8efc-42f69805ddd0) respawned and received items held in storage
+[27Feb2025 23:09:11.196] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 23:09:11.221] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Feb2025 23:10:05.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was slain by Magma Cube
+[27Feb2025 23:10:07.389] [Server thread/DEBUG] [twilightforest/]: Player MadaraUchiha2909 (37a35d61-c727-3734-8efc-42f69805ddd0) respawned and received items held in storage
+[27Feb2025 23:10:26.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was slain by Magma Cube
+[27Feb2025 23:10:28.415] [Server thread/DEBUG] [twilightforest/]: Player MadaraUchiha2909 (37a35d61-c727-3734-8efc-42f69805ddd0) respawned and received items held in storage
+[27Feb2025 23:12:00.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has made the advancement [Hidden in the Depths]
+[27Feb2025 23:12:28.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORY_CT has made the advancement [Hidden in the Depths]
+[27Feb2025 23:12:37.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was burnt to a crisp whilst fighting Foundry Guardian
+[27Feb2025 23:12:39.097] [Server thread/DEBUG] [twilightforest/]: Player MadaraUchiha2909 (37a35d61-c727-3734-8efc-42f69805ddd0) respawned and received items held in storage
+[27Feb2025 23:13:29.232] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/44569, l='ServerLevel[world]', x=16.35, y=-6.97, z=103.36] died: Foundry Guardian was slain by LORY_CT
+[27Feb2025 23:13:30.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has made the advancement [Who is Cutting Onions?]
+[27Feb2025 23:13:49.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 burned to death
+[27Feb2025 23:13:51.241] [Server thread/DEBUG] [twilightforest/]: Player MadaraUchiha2909 (37a35d61-c727-3734-8efc-42f69805ddd0) respawned and received items held in storage
+[27Feb2025 23:14:11.204] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Feb2025 23:14:11.227] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
