@@ -17,9 +17,27 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/apothecary_mossy": {
+    "criteria": {
+      "has_item": "2025-02-27 22:53:51 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/misc/supplycampdeployer": {
     "criteria": {
       "has_chest": "2025-02-27 21:49:11 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_deepslate": {
+    "criteria": {
+      "has_item": "2025-02-27 22:53:51 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_foundry": {
+    "criteria": {
+      "location0": "2025-02-27 22:58:59 +0000"
     },
     "done": true
   },
@@ -29,9 +47,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-02-27 22:54:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-02-27 21:37:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-02-27 23:03:43 +0000"
     },
     "done": true
   },
@@ -149,9 +179,21 @@
     },
     "done": true
   },
+  "botania:recipes/tools/twig_wand": {
+    "criteria": {
+      "has_item": "2025-02-27 22:53:51 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/bloom_boat": {
     "criteria": {
       "in_water": "2025-02-27 21:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-27 22:59:33 +0000"
     },
     "done": true
   },
@@ -271,13 +313,22 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-02-27 23:03:15 +0000",
       "minecraft:skeleton": "2025-02-27 22:05:21 +0000",
       "minecraft:spider": "2025-02-27 21:33:07 +0000",
+      "minecraft:phantom": "2025-02-27 23:03:45 +0000",
+      "minecraft:wither_skeleton": "2025-02-27 23:03:44 +0000",
       "minecraft:husk": "2025-02-27 21:07:08 +0000",
       "minecraft:zombie": "2025-02-27 21:32:19 +0000",
       "minecraft:drowned": "2025-02-27 21:31:00 +0000"
     },
     "done": false
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-02-27 22:51:19 +0000"
+    },
+    "done": true
   },
   "domum_ornamentum:recipes/decorations/green_floating_carpet": {
     "criteria": {
@@ -318,6 +369,13 @@
   "domum_ornamentum:recipes/tools/architectscutter": {
     "criteria": {
       "has_log": "2025-02-27 21:00:32 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/beige_stone_bricks": {
+    "criteria": {
+      "has_item1_domum_ornamentum_beige_stone_bricks": "2025-02-27 22:54:08 +0000",
+      "has_item2_domum_ornamentum_beige_stone_bricks": "2025-02-27 22:54:08 +0000"
     },
     "done": true
   },
@@ -414,6 +472,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-02-27 22:24:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-27 22:59:30 +0000"
     },
     "done": true
   },
@@ -592,6 +656,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-27 22:59:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-02-27 21:33:04 +0000"
@@ -634,6 +704,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-27 22:59:33 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:first_age": {
+    "criteria": {
+      "criteria_0": "2025-02-27 22:55:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-02-27 22:09:48 +0000"
@@ -673,6 +755,12 @@
   "domum_ornamentum:recipes/decorations/red_floating_carpet": {
     "criteria": {
       "has_string": "2025-02-27 22:08:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-27 22:59:30 +0000"
     },
     "done": true
   },
@@ -863,6 +951,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/apothecary_default": {
+    "criteria": {
+      "has_item": "2025-02-27 22:53:51 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/decorations/black_floating_carpet": {
     "criteria": {
       "has_string": "2025-02-27 22:08:43 +0000"
@@ -995,6 +1089,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-02-27 22:54:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-27 22:40:10 +0000"
@@ -1025,6 +1125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-27 22:59:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-27 22:26:02 +0000"
@@ -1052,6 +1158,12 @@
   "occultism:recipes/misc/crafting/raw_silver_block": {
     "criteria": {
       "has_raw_silver": "2025-02-27 21:02:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-02-27 22:56:02 +0000"
     },
     "done": true
   },
@@ -1115,6 +1227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-27 22:59:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-02-27 21:33:04 +0000"
@@ -1124,6 +1242,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-02-27 22:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-27 22:59:33 +0000"
     },
     "done": true
   },
@@ -1193,6 +1317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-02-27 22:54:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-02-27 22:24:07 +0000"
@@ -1244,6 +1374,12 @@
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-02-27 21:52:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-02-27 22:59:33 +0000"
     },
     "done": true
   },
@@ -1381,6 +1517,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-27 22:59:33 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2025-02-27 21:19:13 +0000"
@@ -1408,6 +1550,12 @@
   "minecolonies:recipes/food/apple_pie": {
     "criteria": {
       "has_apple": "2025-02-27 21:11:04 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2025-02-27 22:54:28 +0000"
     },
     "done": true
   },
@@ -1531,6 +1679,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-02-27 22:55:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-02-27 22:04:18 +0000"
@@ -1558,6 +1712,18 @@
   "twilightforest:recipes/transportation/canopy_boat": {
     "criteria": {
       "in_water": "2025-02-27 21:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-27 22:59:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-27 22:59:33 +0000"
     },
     "done": true
   },
@@ -1615,6 +1781,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/dreamwood_wand": {
+    "criteria": {
+      "has_item": "2025-02-27 22:53:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-02-27 21:03:13 +0000"
@@ -1642,6 +1814,13 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-27 21:40:43 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/beige_bricks": {
+    "criteria": {
+      "has_item1_domum_ornamentum_beige_bricks": "2025-02-27 22:54:08 +0000",
+      "has_item2_domum_ornamentum_beige_bricks": "2025-02-27 22:54:08 +0000"
     },
     "done": true
   },
@@ -1696,6 +1875,12 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-02-27 22:08:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_sniffer_egg": {
+    "criteria": {
+      "obtain_sniffer_egg": "2025-02-27 22:55:53 +0000"
     },
     "done": true
   },
@@ -1775,6 +1960,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-27 22:59:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-02-27 21:10:21 +0000"
@@ -1826,6 +2017,12 @@
       "occultism_present": "2025-02-27 20:58:26 +0000"
     },
     "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-02-27 23:03:45 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
