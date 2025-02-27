@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-02-27 22:04:18 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-02-27 21:19:13 +0000"
@@ -110,6 +116,12 @@
   "simplyswords:grant_book_on_first_join": {
     "criteria": {
       "tick": "2025-02-27 20:58:26 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/gray_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-02-27 22:08:43 +0000"
     },
     "done": true
   },
@@ -187,12 +199,19 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-02-27 22:05:21 +0000",
       "minecraft:spider": "2025-02-27 21:33:07 +0000",
       "minecraft:husk": "2025-02-27 21:07:08 +0000",
       "minecraft:zombie": "2025-02-27 21:32:19 +0000",
       "minecraft:drowned": "2025-02-27 21:31:00 +0000"
     },
     "done": false
+  },
+  "domum_ornamentum:recipes/decorations/green_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-02-27 22:08:43 +0000"
+    },
+    "done": true
   },
   "occultism:recipes/food/crafting/demons_dream_essence_from_seeds": {
     "criteria": {
@@ -209,6 +228,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-02-27 21:33:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-02-27 22:08:43 +0000"
     },
     "done": true
   },
@@ -230,9 +255,21 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/decorations/orange_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-02-27 22:08:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2025-02-27 21:01:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-02-27 22:08:43 +0000"
     },
     "done": true
   },
@@ -269,6 +306,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-02-27 21:15:50 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/cyan_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-02-27 22:08:43 +0000"
     },
     "done": true
   },
@@ -423,6 +466,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/iron_dust_from_raw": {
+    "criteria": {
+      "has_raw_iron": "2025-02-27 22:04:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-02-27 21:15:50 +0000"
@@ -432,6 +481,12 @@
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2025-02-27 21:10:49 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/yellow_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-02-27 22:08:43 +0000"
     },
     "done": true
   },
@@ -456,6 +511,12 @@
   "minecolonies:recipes/misc/chainmailhelmet": {
     "criteria": {
       "has_iron": "2025-02-27 21:33:04 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/red_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-02-27 22:08:43 +0000"
     },
     "done": true
   },
@@ -510,6 +571,18 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-02-27 21:02:20 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/brown_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-02-27 22:08:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-02-27 22:04:18 +0000"
     },
     "done": true
   },
@@ -597,6 +670,12 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/decorations/black_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-02-27 22:08:43 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:bornin_chaos": {
     "criteria": {
       "bornin_chaos_0": "2025-02-27 20:58:26 +0000"
@@ -606,6 +685,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-02-27 21:15:50 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/light_gray_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-02-27 22:08:43 +0000"
     },
     "done": true
   },
@@ -753,6 +838,12 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/decorations/lime_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-02-27 22:08:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-02-27 21:01:26 +0000"
@@ -780,6 +871,18 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-02-27 21:33:04 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/white_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-02-27 22:08:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-02-27 22:08:43 +0000"
     },
     "done": true
   },
@@ -861,6 +964,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-02-27 22:08:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-02-27 21:52:32 +0000"
@@ -888,7 +997,8 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2025-02-27 21:38:33 +0000",
-      "scrubland": "2025-02-27 21:15:07 +0000"
+      "scrubland": "2025-02-27 21:15:07 +0000",
+      "spider_nest": "2025-02-27 22:08:30 +0000"
     },
     "done": false
   },
@@ -1036,6 +1146,12 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/decorations/pink_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-02-27 22:08:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-02-27 21:19:13 +0000"
@@ -1084,6 +1200,12 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/decorations/light_blue_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-02-27 22:08:43 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/spirit_fire/spirit_fire/spirit_attuned_gem": {
     "criteria": {
       "has_diamond": "2025-02-27 21:15:50 +0000"
@@ -1093,6 +1215,12 @@
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
       "in_water": "2025-02-27 21:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-02-27 22:04:18 +0000"
     },
     "done": true
   },
@@ -1228,6 +1356,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-02-27 22:08:43 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/blue_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-02-27 22:08:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-02-27 21:33:04 +0000"
@@ -1263,6 +1403,7 @@
       "minecraft:sunflower_plains": "2025-02-27 21:23:36 +0000",
       "minecraft:savanna_plateau": "2025-02-27 21:37:35 +0000",
       "minecraft:river": "2025-02-27 21:19:15 +0000",
+      "minecraft:dripstone_caves": "2025-02-27 22:04:07 +0000",
       "minecraft:forest": "2025-02-27 21:39:48 +0000",
       "minecraft:flower_forest": "2025-02-27 21:23:45 +0000",
       "minecraft:savanna": "2025-02-27 20:58:27 +0000"
@@ -1315,6 +1456,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-02-27 22:08:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-02-27 21:15:50 +0000"
@@ -1351,9 +1498,21 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/decorations/magenta_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-02-27 22:08:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-02-27 21:19:13 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/decorations/purple_floating_carpet": {
+    "criteria": {
+      "has_string": "2025-02-27 22:08:43 +0000"
     },
     "done": true
   },
