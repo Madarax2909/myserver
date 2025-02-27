@@ -1153,3 +1153,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [27Feb2025 23:23:04.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORY_CT was slain by Magma Cube
 [27Feb2025 23:23:04.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Spectator Mode]
 [27Feb2025 23:23:21.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Set own game mode to Survival Mode]
+[27Feb2025 23:25:43.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was killed by magic whilst trying to escape Forge Sentry
+[27Feb2025 23:25:54.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to -38.500000, 2.500000, 17.500000]
+[27Feb2025 23:27:13.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has made the advancement [Ol' Betsy]
+[27Feb2025 23:27:14.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has made the advancement [Take Aim]
+[27Feb2025 23:27:29.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was slain by Foundry Guardian
+[27Feb2025 23:27:39.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to -30.500000, 2.500000, 16.500000]
+[27Feb2025 23:29:00.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MadaraUchiha2909> asd
+[27Feb2025 23:30:16.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORY_CT tried to swim in lava
+[27Feb2025 23:30:25.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has made the advancement [Sneak 100]
+[27Feb2025 23:30:39.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has completed the challenge [It Spreads]
+[27Feb2025 23:31:24.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to -73.500000, 83.500000, 311.500000]
+[27Feb2025 23:33:43.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M5T1 has made the advancement [Suit Up]
+[27Feb2025 23:33:58.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MadaraUchiha2909> asdw
+[27Feb2025 23:34:27.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MadaraUchiha2909> asdw
+[27Feb2025 23:34:33.450] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LORY_CT lost connection: Disconnected
+[27Feb2025 23:34:33.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORY_CT left the game
