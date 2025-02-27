@@ -93,9 +93,27 @@
     },
     "done": true
   },
+  "minecolonies:recipes/misc/supplycampdeployer": {
+    "criteria": {
+      "has_chest": "2025-02-27 21:41:58 +0000"
+    },
+    "done": true
+  },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2025-02-27 21:48:34 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/echo_boat": {
     "criteria": {
       "in_water": "2025-02-27 21:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-02-27 21:45:33 +0000"
     },
     "done": true
   },
@@ -207,6 +225,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-02-27 21:47:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-02-27 21:35:53 +0000"
@@ -219,9 +243,21 @@
     },
     "done": true
   },
+  "botania:recipes/redstone/red_string_container": {
+    "criteria": {
+      "has_base_block": "2025-02-27 21:41:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-02-27 21:15:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-02-27 21:46:07 +0000"
     },
     "done": true
   },
@@ -365,6 +401,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/flower_bag": {
+    "criteria": {
+      "has_item": "2025-02-27 21:48:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2025-02-27 21:09:41 +0000"
@@ -492,6 +534,12 @@
     },
     "done": true
   },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2025-02-27 21:48:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-02-27 21:00:43 +0000"
@@ -573,6 +621,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-02-27 21:06:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/green_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-02-27 21:48:34 +0000"
     },
     "done": true
   },
@@ -678,6 +732,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_green": {
+    "criteria": {
+      "has_item": "2025-02-27 21:48:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-02-27 21:15:37 +0000"
@@ -768,6 +828,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-02-27 21:47:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-02-27 21:15:37 +0000"
@@ -783,6 +849,12 @@
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-27 21:03:04 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2025-02-27 21:48:34 +0000"
     },
     "done": true
   },
@@ -891,6 +963,12 @@
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-27 21:03:04 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/food/mutton_dinner": {
+    "criteria": {
+      "has_mutton": "2025-02-27 21:45:33 +0000"
     },
     "done": true
   },
@@ -1063,6 +1141,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/food/apple_pie": {
+    "criteria": {
+      "has_apple": "2025-02-27 21:42:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-02-27 21:19:37 +0000"
@@ -1159,6 +1243,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-02-27 21:45:33 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/tools/green_cobblestone_extra": {
     "criteria": {
       "has_material": "2025-02-27 21:02:08 +0000"
@@ -1201,6 +1291,12 @@
     },
     "done": true
   },
+  "occultism:recipes/spirit_fire/spirit_fire/otherworld_sapling_natural": {
+    "criteria": {
+      "has_oak_sapling": "2025-02-27 21:45:06 +0000"
+    },
+    "done": true
+  },
   "lootr:10loot": {
     "criteria": {
       "loot_stat": "2025-02-27 21:32:23 +0000"
@@ -1234,6 +1330,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-27 21:19:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-02-27 21:45:33 +0000"
     },
     "done": true
   },
@@ -1342,6 +1444,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-02-27 21:15:37 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2025-02-27 21:48:34 +0000"
     },
     "done": true
   },
