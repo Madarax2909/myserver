@@ -61,6 +61,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sunflower_plains": "2025-02-27 21:21:29 +0000",
+      "minecraft:river": "2025-02-27 21:19:11 +0000",
       "minecraft:savanna": "2025-02-27 20:54:47 +0000"
     },
     "done": false
@@ -92,6 +94,12 @@
   "deeperdarker:recipes/transportation/echo_boat": {
     "criteria": {
       "in_water": "2025-02-27 21:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-02-27 21:19:37 +0000"
     },
     "done": true
   },
@@ -344,6 +352,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-02-27 21:19:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-02-27 21:02:08 +0000"
@@ -386,6 +400,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-27 21:19:37 +0000"
+    },
+    "done": true
+  },
   "domum_ornamentum:recipes/tools/cobblestone_extra": {
     "criteria": {
       "has_material": "2025-02-27 21:02:08 +0000"
@@ -425,6 +445,12 @@
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "scrubland": "2025-02-27 21:15:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-02-27 21:19:37 +0000"
     },
     "done": true
   },
@@ -488,6 +514,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-02-27 21:19:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_string": "2025-02-27 21:15:43 +0000"
@@ -545,6 +577,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-02-27 21:02:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-27 21:19:20 +0000"
     },
     "done": true
   },
@@ -608,6 +646,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_axe": "2025-02-27 21:28:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-27 21:03:04 +0000"
@@ -617,6 +661,12 @@
   "occultism:recipes/misc/crafting/raw_silver_block": {
     "criteria": {
       "has_raw_silver": "2025-02-27 21:09:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-27 21:19:37 +0000"
     },
     "done": true
   },
@@ -722,6 +772,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-27 21:19:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-02-27 21:19:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-02-27 21:14:04 +0000"
@@ -749,6 +811,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-02-27 21:11:24 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-02-27 21:20:06 +0000"
     },
     "done": true
   },
@@ -785,6 +853,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-02-27 21:09:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-02-27 21:19:37 +0000"
     },
     "done": true
   },
@@ -902,6 +976,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-27 21:19:37 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/silver_dust_from_raw": {
     "criteria": {
       "has_raw_silver": "2025-02-27 21:09:23 +0000"
@@ -941,6 +1021,12 @@
   "domum_ornamentum:recipes/building_blocks/blockbarreldeco_standing": {
     "criteria": {
       "has_planks": "2025-02-27 21:03:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_axe": "2025-02-27 21:28:51 +0000"
     },
     "done": true
   },

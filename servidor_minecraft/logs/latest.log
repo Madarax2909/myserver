@@ -483,3 +483,54 @@ com.google.gson.JsonSyntaxException: Unknown item 'rpgsmw:deleted_mod_element'
 [27Feb2025 21:22:37.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to LORY_CT]
 [27Feb2025 21:22:53.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORY_CT was slain by Sir Pumpkinhead
 [27Feb2025 21:22:59.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported LORY_CT to MadaraUchiha2909]
+[27Feb2025 21:23:25.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 drowned
+[27Feb2025 21:23:31.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to 172.500000, 59.500000, 235.500000]
+[27Feb2025 21:23:43.902] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Feb2025 21:23:43.903] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Feb2025 21:23:47.140] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Feb2025 21:23:47.141] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Feb2025 21:24:33.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was doomed to fall by Sir Pumpkinhead
+[27Feb2025 21:24:39.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to LORY_CT]
+[27Feb2025 21:24:50.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORY_CT was slain by Mr. Pumpkin
+[27Feb2025 21:24:59.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported LORY_CT to MadaraUchiha2909]
+[27Feb2025 21:25:05.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was struck by lightning
+[27Feb2025 21:25:10.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to LORY_CT]
+[27Feb2025 21:25:16.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORY_CT was shot by Sir Pumpkinhead
+[27Feb2025 21:25:27.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported LORY_CT to MadaraUchiha2909]
+[27Feb2025 21:25:46.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was slain by Felsteed
+[27Feb2025 21:25:51.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to 171.500000, 63.500000, 229.500000]
+[27Feb2025 21:26:01.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORY_CT was shot by Sir Pumpkinhead
+[27Feb2025 21:26:07.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported LORY_CT to MadaraUchiha2909]
+[27Feb2025 21:26:27.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORY_CT was shot by Sir Pumpkinhead
+[27Feb2025 21:26:34.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported LORY_CT to MadaraUchiha2909]
+[27Feb2025 21:26:37.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 blew up
+[27Feb2025 21:26:43.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to LORY_CT]
+[27Feb2025 21:26:56.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORY_CT was blown up by Mr. Pumpkin
+[27Feb2025 21:27:11.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported LORY_CT to MadaraUchiha2909]
+[27Feb2025 21:27:13.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was shot by Pumpkinhead
+[27Feb2025 21:27:16.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to LORY_CT]
+[27Feb2025 21:27:26.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORY_CT was shot by Pumpkinhead
+[27Feb2025 21:27:41.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported LORY_CT to MadaraUchiha2909]
+[27Feb2025 21:27:41.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was shot by Pumpkinhead
+[27Feb2025 21:27:45.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to LORY_CT]
+[27Feb2025 21:28:16.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was shot by Pumpkinhead
+[27Feb2025 21:28:22.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORY_CT was shot by Pumpkinhead
+[27Feb2025 21:28:51.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Gave 1 [Iron Axe] to MadaraUchiha2909]
+[27Feb2025 21:28:54.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to LORY_CT]
+[27Feb2025 21:29:03.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to 208.500000, 59.500000, 243.500000]
+[27Feb2025 21:29:19.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 was shot by Pumpkinhead
+[27Feb2025 21:29:25.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MadaraUchiha2909: Teleported MadaraUchiha2909 to 209.500000, 62.500000, 236.500000]
+[27Feb2025 21:29:25.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has reached the goal [Pumpkin Sir]
+[27Feb2025 21:32:16.244] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Feb2025 21:32:16.244] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Feb2025 21:32:16.297] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Feb2025 21:32:16.297] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Feb2025 21:32:17.177] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Feb2025 21:32:17.178] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Feb2025 21:32:17.178] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Feb2025 21:32:17.179] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[27Feb2025 21:32:23.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has made the advancement [Disme A Dozen]
+[27Feb2025 21:32:46.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORY_CT has made the advancement [Best Friends Forever]
+[27Feb2025 21:32:48.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORY_CT has made the advancement [Disme A Dozen]
+[27Feb2025 21:32:51.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MadaraUchiha2909 has made the advancement [Dark Metallurgy]
+[27Feb2025 21:33:04.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LORY_CT has made the advancement [Acquire Hardware]
