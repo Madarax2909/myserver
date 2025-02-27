@@ -814,6 +814,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/emerald_dust_from_gem": {
+    "criteria": {
+      "has_emerald_gem": "2025-02-27 22:44:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-02-27 21:36:48 +0000"
@@ -1138,6 +1144,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-02-27 22:44:20 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2025-02-27 21:11:24 +0000"
@@ -1286,6 +1298,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-02-27 21:15:37 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:guidetothenextworld": {
+    "criteria": {
+      "guidetothenextworld_0": "2025-02-27 22:48:03 +0000"
     },
     "done": true
   },

@@ -1,7 +1,25 @@
 {
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-02-27 22:43:18 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/echo_boat": {
     "criteria": {
       "in_water": "2025-02-27 22:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-27 22:47:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2025-02-27 22:44:40 +0000"
     },
     "done": true
   },
@@ -11,15 +29,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-27 22:47:07 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-02-27 22:38:01 +0000"
     },
     "done": true
   },
+  "occultism:recipes/combat/crafting/butcher_knife": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-27 22:39:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-02-27 22:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-02-27 22:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-27 22:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-27 22:39:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-27 22:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-02-27 22:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-27 22:47:07 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/bloom_boat": {
     "criteria": {
       "in_water": "2025-02-27 22:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-27 22:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-02-27 22:43:18 +0000"
     },
     "done": true
   },
@@ -35,9 +119,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-02-27 22:39:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-27 22:39:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-02-27 22:39:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-27 22:44:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-27 22:44:37 +0000"
     },
     "done": true
   },
@@ -47,15 +155,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-02-27 22:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-02-27 22:48:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-27 22:47:07 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/umbran_boat": {
     "criteria": {
       "in_water": "2025-02-27 22:38:01 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-27 22:39:20 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/architectscutter": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-27 22:39:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2025-02-27 22:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-02-27 22:39:11 +0000"
     },
     "done": true
   },
@@ -71,15 +215,76 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-02-27 22:39:11 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/chainmailleggings": {
+    "criteria": {
+      "has_iron": "2025-02-27 22:39:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-02-27 22:39:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-02-27 22:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-02-27 22:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-27 22:47:07 +0000"
+    },
+    "done": true
+  },
   "terramity:terramity_parent_advancement": {
     "criteria": {
       "terramity_parent_advancement_0": "2025-02-27 22:35:48 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-02-27 22:39:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-27 22:39:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-27 22:44:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-27 22:44:37 +0000"
+    },
+    "done": true
+  },
   "lootr:social": {
     "criteria": {
-      "opened_barrel": "2025-02-27 22:39:05 +0000"
+      "opened_barrel": "2025-02-27 22:39:05 +0000",
+      "opened_chest": "2025-02-27 22:44:35 +0000"
     },
     "done": false
   },
@@ -89,9 +294,45 @@
     },
     "done": true
   },
+  "domum_ornamentum:recipes/tools/wheat_extra": {
+    "criteria": {
+      "has_material": "2025-02-27 22:39:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-27 22:39:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-27 22:39:24 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/gold_dust_from_ingot": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-27 22:47:07 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-02-27 22:35:48 +0000"
+    },
+    "done": true
+  },
+  "illusion_onslaught:strange_scrolls": {
+    "criteria": {
+      "strange_scrolls": "2025-02-27 22:44:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-27 22:39:20 +0000"
     },
     "done": true
   },
@@ -101,9 +342,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-02-27 22:43:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-27 22:39:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-02-27 22:41:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-27 22:39:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-02-27 22:44:36 +0000"
     },
     "done": true
   },
@@ -113,9 +378,33 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "scrubland": "2025-02-27 22:44:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-02-27 22:39:08 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/chainmailhelmet": {
+    "criteria": {
+      "has_iron": "2025-02-27 22:39:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-27 22:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-02-27 22:43:18 +0000"
     },
     "done": true
   },
@@ -125,15 +414,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-27 22:47:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-02-27 22:38:01 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-27 22:39:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-02-27 22:48:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-02-27 22:43:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-02-27 22:41:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-27 22:39:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-02-27 22:39:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-02-27 22:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-02-27 22:44:40 +0000"
     },
     "done": true
   },
@@ -149,9 +486,33 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-02-27 22:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-27 22:41:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-27 22:44:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-02-27 22:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-27 22:39:20 +0000"
     },
     "done": true
   },
@@ -167,15 +528,93 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-02-27 22:44:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-27 22:39:20 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/mining_boat": {
     "criteria": {
       "in_water": "2025-02-27 22:38:01 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-02-27 22:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_chainmail_boots": "2025-02-27 22:39:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-27 22:39:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-27 22:39:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-27 22:39:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-27 22:39:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-27 22:39:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-27 22:39:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-27 22:44:53 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/shapetool": {
+    "criteria": {
+      "has_stick": "2025-02-27 22:43:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-02-27 22:39:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-27 22:47:07 +0000"
     },
     "done": true
   },
@@ -191,6 +630,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-02-27 22:39:20 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2025-02-27 22:38:01 +0000"
@@ -203,9 +648,22 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "woodland": "2025-02-27 22:45:23 +0000",
+      "scrubland": "2025-02-27 22:44:15 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-02-27 22:39:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-27 22:39:20 +0000"
     },
     "done": true
   },
@@ -221,6 +679,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-27 22:39:20 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/maple_boat": {
     "criteria": {
       "in_water": "2025-02-27 22:38:01 +0000"
@@ -230,6 +694,18 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-02-27 22:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/chainmailchestplate": {
+    "criteria": {
+      "has_iron": "2025-02-27 22:39:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-02-27 22:48:24 +0000"
     },
     "done": true
   },
@@ -263,6 +739,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-02-27 22:39:24 +0000"
+    },
+    "done": true
+  },
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2025-02-27 22:35:48 +0000"
@@ -275,9 +757,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-02-27 22:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-02-27 22:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-27 22:39:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-27 22:39:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-02-27 22:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-27 22:39:20 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/chainmailboots": {
+    "criteria": {
+      "has_iron": "2025-02-27 22:39:20 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/diamond_dust_from_gem": {
+    "criteria": {
+      "has_diamond_gem": "2025-02-27 22:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-27 22:39:20 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/spirit_attuned_gem": {
+    "criteria": {
+      "has_diamond": "2025-02-27 22:44:36 +0000"
     },
     "done": true
   },
@@ -311,6 +847,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-02-27 22:43:18 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-02-27 22:46:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-02-27 22:45:07 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/palm_boat": {
     "criteria": {
       "in_water": "2025-02-27 22:38:01 +0000"
@@ -329,9 +883,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-27 22:39:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-02-27 22:39:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-27 22:39:24 +0000"
+    },
+    "done": true
+  },
   "rpgsmw:choose_your_class": {
     "criteria": {
       "choose_your_class_0": "2025-02-27 22:35:48 +0000"
+    },
+    "done": true
+  },
+  "illusion_onslaught:cultruins": {
+    "criteria": {
+      "cultruins": "2025-02-27 22:45:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-27 22:44:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-27 22:39:20 +0000"
     },
     "done": true
   },
@@ -341,11 +931,43 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_chainmail_boots": "2025-02-27 22:39:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-02-27 22:48:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-02-27 22:39:47 +0000",
+      "minecraft:river": "2025-02-27 22:42:37 +0000",
       "minecraft:ocean": "2025-02-27 22:37:36 +0000",
       "minecraft:flower_forest": "2025-02-27 22:37:16 +0000",
       "minecraft:savanna": "2025-02-27 22:35:49 +0000"
+    },
+    "done": false
+  },
+  "occultism:recipes/crushing/crushing/iron_dust_from_ingot": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-27 22:39:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-27 22:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "golden_apple": "2025-02-27 22:48:32 +0000"
     },
     "done": false
   },
@@ -367,9 +989,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-02-27 22:44:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-27 22:39:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-02-27 22:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-02-27 22:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-02-27 22:39:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-02-27 22:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-02-27 22:47:07 +0000"
     },
     "done": true
   },
