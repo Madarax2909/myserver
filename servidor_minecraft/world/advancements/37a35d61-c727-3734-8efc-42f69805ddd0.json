@@ -474,6 +474,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-02-28 00:14:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-02-27 21:11:24 +0000"
@@ -2321,6 +2327,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-02-28 00:15:24 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/spirit_fire/spirit_fire/otherworld_sapling_natural": {
     "criteria": {
       "has_oak_sapling": "2025-02-27 21:45:06 +0000"
@@ -2698,6 +2710,12 @@
   "domum_ornamentum:recipes/decorations/purple_floating_carpet": {
     "criteria": {
       "has_string": "2025-02-27 21:15:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-02-28 00:14:40 +0000"
     },
     "done": true
   },
