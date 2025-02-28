@@ -119,6 +119,13 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-02-28 00:05:48 +0000",
+      "minecraft:soul_sand_valley": "2025-02-28 00:07:54 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-02-27 23:03:22 +0000"
@@ -263,6 +270,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
+    "criteria": {
+      "has_burning_blossom": "2025-02-28 00:07:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2025-02-27 22:35:48 +0000"
@@ -338,6 +351,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-02-27 23:44:21 +0000",
+      "minecraft:hoglin": "2025-02-28 00:07:06 +0000",
       "minecraft:spider": "2025-02-27 22:55:36 +0000",
       "minecraft:slime": "2025-02-27 23:41:50 +0000",
       "minecraft:zombie": "2025-02-27 22:48:13 +0000"
@@ -396,6 +410,12 @@
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2025-02-27 22:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-02-28 00:08:08 +0000"
     },
     "done": true
   },
@@ -577,6 +597,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-27 23:34:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-02-28 00:07:07 +0000"
     },
     "done": true
   },
@@ -874,6 +900,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-02-28 00:07:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-02-27 22:39:08 +0000"
@@ -955,6 +987,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-27 23:34:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-02-28 00:05:58 +0000"
     },
     "done": true
   },
@@ -1228,6 +1266,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-28 00:05:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-02-27 22:44:53 +0000"
@@ -1327,7 +1371,9 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2025-02-27 22:45:23 +0000",
-      "scrubland": "2025-02-27 22:44:15 +0000"
+      "scrubland": "2025-02-27 22:44:15 +0000",
+      "crystalline_chasm": "2025-02-28 00:07:32 +0000",
+      "undergrowth": "2025-02-28 00:07:23 +0000"
     },
     "done": false
   },
@@ -1352,6 +1398,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-02-27 22:39:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-02-28 00:07:07 +0000"
     },
     "done": true
   },
@@ -1625,6 +1677,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-28 00:05:48 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2025-02-27 22:38:01 +0000"
@@ -1716,9 +1774,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-02-28 00:09:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-27 22:39:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-02-28 00:08:08 +0000"
     },
     "done": true
   },
